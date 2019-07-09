@@ -70,8 +70,31 @@ for sentence in plain_text.split('.'):
         break
     sentence = sentence.strip()
     sentence = sentence + '.' + '\n'
+    plain_text_formated = ""
+    for word in sentence.split(" "):
+        need_to_split = False
+        split_index = 0
+        for i in range(len(word)):
+            if (word[i].isupper()) and (i != 0):
+                need_to_split = True
+                split_index = i
+        # for char in word[1:]:
+        #     if char.isupper():
+        #         need_to_split = True
+        if(need_to_split == False):
+            plain_text_formated = plain_text_formated + word + " "
+        else:
+            plain_text_formated = plain_text_formated + word[:split_index] + "\n" + word[split_index:] + " "
 
-    outFile_txt.write(sentence)
+        # for char in word[1:]:
+        #     if char.isupper():
+        #         print(word, char)
+        #         word
+
+
+
+
+    outFile_txt.write(plain_text_formated)
 
 
 cards = ka_content.find_all("div", {"class":"card"})
