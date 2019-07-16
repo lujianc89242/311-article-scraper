@@ -1,0 +1,3 @@
+Number of articles: 1989
+Number of articles passed check sum: 0   0.0
+Correct rate: 0.0
