@@ -1,3 +1,3 @@
 Number of articles: 1989
-Number of articles passed check sum: 0   0.0
-Correct rate: 0.0
+Number of articles passed check sum: 1729   0.869281045751634
+Correct rate: 0.9921507766675234

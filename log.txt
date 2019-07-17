@@ -1,0 +1,1989 @@
+KA-03089 3-Day or 10-Day Water Notice:  1.0
+KA-03141 3-K Enrollment:  0.9913391072618255
+KA-02536 911 Surcharge:  1.0
+KA-01949 Abandoned Apartment:  1.0
+KA-02752 Abandoned Baby Prevention:  1.0
+KA-02537 Abandoned Pet:  0.8513238289205702
+KA-01254 Abandoned Property:  1.0
+KA-02130 Abandoned Vehicle:  0.9866232827187275
+KA-02538 Abortion:  1.0
+KA-02539 Accelerator for Media Pros NYC (AMP NYC):  1.0
+KA-02540 ACCESS HRA:  1.0
+KA-02541 ACCESS NYC:  0.6251686909581646
+KA-02352 Access-A-Ride:  1.0
+KA-02515 Accessible Pedestrian Signal Request:  1.0
+KA-02542 Accessible Taxi Dispatch:  1.0
+KA-01513 Accident with Injury:  1.0
+KA-02543 Action Health NYC:  1.0
+KA-02544 Active Design:  1.0
+KA-01806 Add Chemicals to Water Supply Permit:  1.0
+KA-01514 Addict Medical Emergency:  1.0
+KA-02545 Administration for Children's Services Case Status:  1.0
+KA-01657 Adolescent Literacy Program:  1.0
+KA-01112 Adopt a Highway:  1.0
+KA-02487 Adopt a Litter Basket:  0.9771186440677966
+KA-02546 Adopt an Animal:  1.0
+KA-01032 Adoption and Foster Care:  1.0
+KA-01255 Adoption Records:  0.9654289372599232
+KA-02547 Adult Day Care:  1.0
+KA-02111 Adult Education:  0.9643207855973813
+KA-01902 Adult Establishment Zoning Complaint:  1.0
+KA-02009 Adult Probation Supervision:  1.0
+KA-03113 Adult Protective Services:  1.0
+KA-02548 Adult Vaccination and Immunization:  1.0
+KA-02549 Adult Vaccination Poster:  1.0
+KA-01903 Advertising Sign Complaint:  1.0
+KA-01966 Affordable Housing:  1.0
+KA-01290 Affordable Housing Development and Preservation Financing:  1.0
+KA-01113 Affordable Housing Fraud:  1.0
+KA-02550 After School Program:  1.0
+KA-02246 Agency Charges Collected by the Department of Finance:  1.0
+KA-01908 Air Conditioner in Danger of Falling:  1.0
+KA-02551 Air Conditioner Installation Guidelines:  1.0
+KA-02552 Air Conditioners for People with Medical Conditions:  1.0
+KA-01408 Air Pollution:  0.9800590841949779
+KA-01886 Air Quality:  0.9860031104199067
+KA-01114 Airline Safety Complaint:  1.0
+KA-02553 Airports:  1.0
+KA-01089 Alarm:  1.0
+KA-02554 Alcohol and Pregnancy Warning Poster:  1.0
+KA-01979 Alcohol Drinking Complaint:  1.0
+KA-02555 Alcohol License:  1.0
+KA-02556 Alcohol License Check:  1.0
+KA-02557 Alcohol License Tax:  1.0
+KA-02223 Alcohol Sale Complaint:  1.0
+KA-01011 Alternate Side Parking and Street Cleaning:  0.6658429956282076
+KA-01115 Alternative Enforcement Program (AEP):  1.0
+KA-01116 Alternative Schools and Programs:  1.0
+KA-01059 Alzheimer's Care:  1.0
+KA-02558 Ambulance Complaint:  1.0
+KA-01117 Ambulance Patient Location:  1.0
+KA-01118 Amtrak Trains:  1.0
+KA-01844 Amusement Arcade License:  1.0
+KA-02196 Amusement Ride Complaint:  1.0
+KA-01835 Amusement Ride License or Permit:  1.0
+KA-02224 Animal Abuse:  1.0
+KA-03217 Animal Abuse Registry:  0.9859708193041526
+KA-01109 Animal Bite:  1.0
+KA-02559 Animal Care and Handling Course:  1.0
+KA-02225 Animal Facility Complaint:  1.0
+KA-01945 Animal Odor:  1.0
+KA-01880 Animal Shelter Permit:  1.0
+KA-02560 Anti-Smoking Advertising Complaint:  1.0
+KA-01074 Apartment Maintenance Complaint:  1.0
+KA-01020 Apostille Document Authentication:  0.9597806215722121
+KA-02561 ApprenticeNYC for CNC Machine Operators:  0.9885764499121266
+KA-01994 Arcade Complaint:  1.0
+KA-01119 Architect or Engineer Complaint:  1.0
+KA-01400 Arrest Warrant:  0.935871743486974
+KA-01120 Arson Tips:  1.0
+KA-01121 Art Supplies:  1.0
+KA-02562 Artist Certification:  1.0
+KA-02197 Asbestos Complaint:  1.0
+KA-02447 Asbestos Handler Certification:  1.0
+KA-01122 Asbestos Health Effects:  1.0
+KA-01123 Asbestos Work Notification:  1.0
+KA-01124 Asian Longhorned Beetles:  1.0
+KA-01515 Assault:  1.0
+KA-01125 Assisted Living Facility or Adult Home Complaint:  1.0
+KA-02563 Asthma:  1.0
+KA-01126 ATM Complaint:  1.0
+KA-01972 Auction House License:  1.0
+KA-01864 Auctioneer License:  1.0
+KA-01128 Auto Repair Complaint:  1.0
+KA-02226 Automatic Public Toilets:  1.0
+KA-01928 Automobile Spray Paint Odor:  1.0
+KA-01129 Autopsy Report:  1.0
+KA-02227 Awning, Canopy, Marquee, or Storm Enclosure Complaint:  1.0
+KA-02564 Baby Care and Safety:  0.9931153184165232
+KA-01398 Bail:  0.9922687283391096
+KA-01130 Bail Bond Agent Complaint:  1.0
+KA-03129 Bail Refund:  0.9868956968301753
+KA-02116 Baker's Oven Permit:  0.9580246913580247
+KA-01131 Bank Complaint:  1.0
+KA-02565 Banking Corporation Tax:  1.0
+KA-02016 Bankruptcy Court:  1.0
+KA-01993 Bar or Club Complaint:  1.0
+KA-02228 Barbecuing:  1.0
+KA-01847 Barber Shop Permit:  1.0
+KA-02702 Basement Apartment Conversion Pilot Program (BACPP):  1.0
+KA-01811 Bathing Beach Permit:  1.0
+KA-02229 Beach Complaint:  0.9760665972944849
+KA-02566 Beaches:  1.0
+KA-02567 Beacon Community Centers:  1.0
+KA-02568 Become a City Marshal:  0.9848726114649682
+KA-01256 Become a Correction Officer:  1.0
+KA-02569 Become a Crossing Guard:  1.0
+KA-01132 Become a Firefighter, Emergency Medical Technician (EMT), or Paramedic:  1.0
+KA-01133 Become a Food Provider:  1.0
+KA-01257 Become a Lifeguard:  1.0
+KA-01134 Become a Nurse:  1.0
+KA-01135 Become a NYC Ferry Captain or Deckhand:  1.0
+KA-01409 Become a Parks Mounted Auxiliary Officer:  0.981081081081081
+KA-01410 Become a Police Officer:  1.0
+KA-01136 Become a Poll Worker:  1.0
+KA-01411 Become a School Safety Agent:  1.0
+KA-02570 Become a Teacher:  0.9787234042553191
+KA-01412 Become an Auxiliary Police Officer:  1.0
+KA-01236 Bed Bug Complaint:  0.9854194706146254
+KA-01793 Bed Bug Prevention and Control:  0.9469744229569557
+KA-02316 Beekeeping:  1.0
+KA-02230 Bees or Wasps Complaint:  1.0
+KA-01258 Behavioral Health and the Criminal Justice System Task Force:  1.0
+KA-02572 Bench Request:  1.0
+KA-02573 Benchmark Requirement:  0.9825185185185186
+KA-01137 Benefits for Veterans:  1.0
+KA-01259 Benefits Guide for Seniors:  1.0
+KA-01899 Bereavement Support for Seniors:  1.0
+KA-02574 Bike Helmet:  1.0
+KA-01260 Bike Lane:  1.0
+KA-02575 Bike Map:  1.0
+KA-02576 Bike Rack Application:  0.904642409033877
+KA-01072 Bike Rack Complaint:  1.0
+KA-02577 Bike Rules and Safety:  0.9919571045576407
+KA-02065 Bike Share Feedback:  1.0
+KA-02231 Bikes in Office Buildings:  1.0
+KA-02578 Biking Health Bulletin:  1.0
+KA-02232 Biking, Rollerblading, or Skating Complaint:  1.0
+KA-03194 Bilingual Commercial Driver Training:  1.0
+KA-02975 Bilingual Education:  1.0
+KA-03195 Bilingual Medical Assistant Training:  1.0
+KA-01138 Bill Payer Program:  1.0
+KA-01139 Billboard, Building Sign, or Awning Permit:  0.9667318982387475
+KA-02195 Bingo Hall Complaint:  0.9426860564585116
+KA-01882 Bingo License:  0.9536345776031434
+KA-02579 Biotechnology Tax Credit:  0.9926054806437582
+KA-01013 Birth Certificate Change:  0.9717552118359112
+KA-01022 Birth Certificate from Puerto Rico:  0.9718543046357616
+KA-01012 Birth Certificate Order:  0.9709952102182011
+KA-02580 Birth Certificate Verification:  1.0
+KA-02581 Birth Control:  1.0
+KA-02582 Blindness and Low Vision Support:  1.0
+KA-01261 Block Party, Street Fair, or Event Permit:  1.0
+KA-02233 Blocked Building Exit or Fire Escape:  1.0
+KA-01062 Blocked Driveway:  1.0
+KA-01980 Blocked Sidewalk or Street:  1.0
+KA-02583 Boat Pump Out:  1.0
+KA-02047 Boiler Complaint:  1.0
+KA-01782 Boiler Inspection:  1.0
+KA-02584 Boiler Inspection Violation:  0.9826187717265353
+KA-02585 Boiler Operator Engineer Complaint:  1.0
+KA-02586 Boiler Operator Engineer License:  1.0
+KA-02085 Boiler Permits and Registration:  1.0
+KA-02054 Booted Vehicle:  0.9860161591050342
+KA-02194 Booting Company Complaint:  1.0
+KA-01837 Booting Company License:  1.0
+KA-01247 Borough-Block-Lot (BBL) Lookup:  1.0
+KA-02587 Botanical Gardens:  1.0
+KA-02477 Bottle Refund:  1.0
+KA-01941 Bottled Water Complaint:  1.0
+KA-02234 Breaking Park Rules:  1.0
+KA-02588 Breastfeeding:  1.0
+KA-02589 Breastfeeding Welcome Sign and Toolkit:  1.0
+KA-01079 Bridges:  0.9809004092769441
+KA-02329 Broken Sewer Line:  1.0
+KA-02235 Broken Sidewalk:  1.0
+KA-01142 Brooklyn Cyclones:  1.0
+KA-01516 Brownfields:  1.0
+KA-02590 Building Code:  1.0
+KA-01797 Building Construction Complaint:  1.0
+KA-02104 Building Construction or Alteration Permit:  0.9649484536082474
+KA-02236 Building Demolition Complaint:  1.0
+KA-01517 Building Demolition Rat Extermination Certificate:  1.0
+KA-02591 Building Facade Inspection:  1.0
+KA-02017 Building Floor Plan:  1.0
+KA-02592 Building No-Change Permit:  1.0
+KA-01263 Building Ownership:  1.0
+KA-02101 Building Permit Status:  1.0
+KA-02351 Building Plan Exam:  0.9888174447861336
+KA-02381 Building Registration:  1.0
+KA-01981 Building Sign Complaint:  1.0
+KA-02018 Building Violation:  1.0
+KA-01405 Building Water Complaint:  1.0
+KA-01264 Buildings Information System (BIS):  1.0
+KA-01969 Bulk Item Disposal:  0.9382016987210778
+KA-02593 Burn Calories, Not Electricity Poster:  1.0
+KA-01518 Burning Garbage:  1.0
+KA-02342 Bus Lane Camera Complaint:  1.0
+KA-02325 Bus Lane Cameras:  1.0
+KA-01265 Bus Stop Request:  1.0
+KA-01071 Bus Stop Shelter Complaint:  1.0
+KA-01679 Bus Stop Shelter Request:  1.0
+KA-01014 Buses and Subways:  1.0
+KA-02042 Business Background Check:  1.0
+KA-01688 Business Complaint Against Another Business:  1.0
+KA-02594 Business Courses:  1.0
+KA-02595 Business Financial Assistance:  1.0
+KA-02596 Business Fine Payment:  0.9962616822429906
+KA-01266 Business Improvement District (BID) Guide:  1.0
+KA-02597 Business Incentives:  1.0
+KA-02598 Business Legal Assistance:  1.0
+KA-02599 Business Name or Address Change:  1.0
+KA-02600 Business Pitch:  1.0
+KA-02601 Business Registration:  1.0
+KA-02602 Business Tax Assistance:  0.9755281957744338
+KA-01812 Cabaret License:  1.0
+KA-01058 Cable Complaint:  0.37050043898156276
+KA-03196 Cable Installation Training:  1.0
+KA-02237 Calorie Posting:  1.0
+KA-02337 Camp:  1.0
+KA-01519 Camp License and Operation:  1.0
+KA-01520 Campaign Finance Disclosure:  1.0
+KA-01521 Cancer:  1.0
+KA-02604 Canopy Permit:  1.0
+KA-02605 Capital Access Small Business Loan:  1.0
+KA-02131 Car Dealer Complaint:  1.0
+KA-02193 Car Rental Complaint:  1.0
+KA-01689 Car Repair Shop License:  1.0
+KA-02606 Car Seat Inspection:  1.0
+KA-01244 Car Service Complaint:  1.0
+KA-02607 Car Service Driver Compliment:  1.0
+KA-01050 Car Service Lost and Found:  1.0
+KA-01921 Car Wash Labor Violation:  1.0
+KA-01813 Car Wash License:  1.0
+KA-01267 Carbon Challenge:  1.0
+KA-02608 Carbon Monoxide:  1.0
+KA-02192 Carpet Business Complaint:  1.0
+KA-01522 Carpool or RideMatch:  1.0
+KA-02609 Carriage Horse Handling Course:  1.0
+KA-02484 Carryout Bag Fee:  1.0
+KA-02610 Carshare:  0.9916390872670267
+KA-02238 Case Assistance and Management for Seniors:  0.9826478149100257
+KA-01306 Cash for Guns Program:  1.0
+KA-01084 Catch Basin Complaint:  1.0
+KA-02611 Catch Basin Installation:  1.0
+KA-02315 Catch Basin or Sewer Odor:  1.0
+KA-02191 Catering Establishment Complaint:  1.0
+KA-01815 Catering Establishment License:  1.0
+KA-03179 CBD in Food or Drink:  1.0
+KA-01268 Cell Phone Number Portability:  1.0
+KA-02163 Cell Phone Purchase Complaint:  1.0
+KA-01523 Cell Phones and Your Health:  1.0
+KA-01690 Cemetery Complaint:  1.0
+KA-01691 Census Data:  1.0
+KA-02612 Central Park:  1.0
+KA-02613 Certificate of Disposition:  1.0
+KA-02614 Certificate of Good Conduct or Relief:  0.9859437751004017
+KA-02023 Certificate of Occupancy and Letter of No Objection:  1.0
+KA-02024 Certificate of Occupancy Complaint:  1.0
+KA-01692 Certificate of Residency:  1.0
+KA-02615 Certification of No Harassment or Exemption Application:  1.0
+KA-02448 Certified Asbestos Investigator:  1.0
+KA-03197 Certified Recovery Peer Advocate Training:  1.0
+KA-02105 Cesspool Permit:  0.9573934837092731
+KA-01792 CFC and Freon Removal:  1.0
+KA-02218 Chained Bike:  0.9672846237731734
+KA-01143 Charity Background Check or Complaint:  1.0
+KA-01524 Charity Fraud:  1.0
+KA-01525 Charity Registration:  1.0
+KA-02616 Charter Revision Commission:  1.0
+KA-02617 Charter Schools:  1.0
+KA-01526 Check Cashing Business Complaint:  1.0
+KA-01982 Chemical Complaint:  1.0
+KA-02239 Chemical Spill:  1.0
+KA-01221 Child Abuse:  1.0
+KA-02516 Child Care:  1.0
+KA-01269 Child Care Business Pathways for NYCHA Residents:  1.0
+KA-03118 Child Care Financial Assistance:  0.9273691491814618
+KA-02618 Child Care Performance Card:  1.0
+KA-02619 Child Care Provider Payment:  1.0
+KA-01144 Child Care Tax Credit:  1.0
+KA-01527 Child Dental Record:  1.0
+KA-02620 Child Development:  1.0
+KA-02621 Child Eye Exam:  0.9614197530864198
+KA-02622 Child Health Clinics:  1.0
+KA-01145 Child Health Plus Complaint:  1.0
+KA-02623 Child Immunization Clinic or School Medical Exam:  1.0
+KA-02624 Child Pornography:  1.0
+KA-02625 Child Safety:  0.9913816321034205
+KA-01038 Child Support:  1.0
+KA-01528 Child with Special Health Care Needs:  1.0
+KA-02219 Chimney or Ventilation Smoke:  1.0
+KA-02626 Chlamydia Treatment for Partners:  1.0
+KA-01889 Choking Poster:  1.0
+KA-02627 Cigarette Sale Complaint:  1.0
+KA-02628 Cigarette Tax:  1.0
+KA-01146 Cigarette Wholesaler License:  1.0
+KA-02629 Circumcision:  1.0
+KA-02221 Citi Bike:  0.898869212716023
+KA-01224 City Agency Commissioners and Mayor's Senior Staff:  1.0
+KA-02630 City Agency Language Access Feedback:  1.0
+KA-01662 City Agency or Worker Feedback:  1.0
+KA-01270 City Agency Performance:  1.0
+KA-01021 City Agency Record or FOIL Request:  1.0
+KA-02631 City Agency Study or Report:  1.0
+KA-02632 City Archive Photograph:  1.0
+KA-02633 City Budget:  1.0
+KA-02634 City Budget Cut Feedback:  1.0
+KA-02635 City Canvas Program:  1.0
+KA-01094 City Claim:  0.9709055246812683
+KA-01147 City Claim Fraud:  1.0
+KA-02123 City Clerk Online Support:  1.0
+KA-01148 City Comptroller Complaint:  1.0
+KA-02636 City Contract Equal Employment Opportunity Compliance:  1.0
+KA-02637 City Contracts:  0.9837668501993545
+KA-01271 City Council Member Complaint:  1.0
+KA-01149 City Council Transcript:  1.0
+KA-01272 City Employee Graduate Scholarship:  1.0
+KA-02638 City Employee Payroll Assistance:  1.0
+KA-01150 City Employment Check:  1.0
+KA-01151 City Environmental Quality Review:  1.0
+KA-02639 City Flags:  1.0
+KA-02492 City Government Jobs:  1.0
+KA-01273 City Government Spending:  1.0
+KA-01152 City Hall Tours:  1.0
+KA-02640 City Health Information (CHI) for Health Care Providers:  1.0
+KA-02416 City Jail System Facilities:  1.0
+KA-01274 City Laws:  1.0
+KA-01693 City Map Change:  1.0
+KA-01153 City Marshal Bonds:  1.0
+KA-01154 City Marshal Complaint:  1.0
+KA-02641 City Marshals:  1.0
+KA-01243 City Parking Permit for People with Disabilities:  0.9738156296396275
+KA-02121 City Planning and Zoning:  0.991353001017294
+KA-01155 City Planning Publications:  1.0
+KA-01156 City Record Newspaper:  1.0
+KA-02642 City Service Access for American Sign Language (ASL) Users:  1.0
+KA-02643 City Souvenirs and Books:  1.0
+KA-02108 City University of New York (CUNY):  0.9966996699669967
+KA-01157 City University of New York (CUNY) Admissions Complaint:  1.0
+KA-01158 City Vehicle Complaint:  1.0
+KA-02417 City Worker Conflict of Interest:  1.0
+KA-01529 City Worker Financial Disclosure Report:  1.0
+KA-02645 City Worker Nonresident Tax Form NYC-1127:  0.9916003536693192
+KA-02418 City Worker or Contractor Corruption or Criminal Misconduct:  1.0
+KA-02646 City Worker or Retiree Benefits:  0.9839540412044374
+KA-03172 CityFHEPS Tenant Assistance:  1.0
+KA-02019 City-Issued Violation or Summons:  0.9747266350319785
+KA-01160 City-Owned Property:  1.0
+KA-01159 City-Owned Property Auction or Sale:  1.0
+KA-02520 CityPay:  1.0
+KA-01275 City-Subsidized Project Living Wage Increase:  1.0
+KA-01276 Citywide Performance Reporting:  1.0
+KA-01161 Citywide Training Center:  1.0
+KA-03192 Civic Engagement Commission:  1.0
+KA-02026 Civil Court for Disputes Under $25,000:  1.0
+KA-02486 Clean Community Flyer:  0.9232954545454546
+KA-01530 Clean Syringes:  1.0
+KA-03003 CleaNYC Sidewalk Power Washing:  1.0
+KA-02526 Clergy Property Tax Exemption:  0.9980582524271845
+KA-01769 Coast Guard:  1.0
+KA-01694 Coffee Roaster Permit:  1.0
+KA-02466 Collection Bin Removal:  1.0
+KA-02647 College Application Preparation:  1.0
+KA-02648 College Program for COMPASS and Beacon Staff:  1.0
+KA-01162 College Savings Program:  1.0
+KA-02649 Colon Cancer:  1.0
+KA-02650 Combined Sewage Overflow (CSO) Waterbody Advisory:  1.0
+KA-02532 Commercial Construction Tax Benefit Programs:  0.9978506179473401
+KA-02651 Commercial Cyclists:  1.0
+KA-03198 Commercial Driving Training:  1.0
+KA-02135 Commercial Garbage Disposal Complaint:  1.0
+KA-01277 Commercial Lease Assistance:  1.0
+KA-02652 Commercial Motor Vehicle Tax:  0.9993547554523164
+KA-01531 Commercial Range Hood Rules:  1.0
+KA-02653 Commercial Rent Tax:  1.0
+KA-01920 Commercial Vehicle Parked in Residential Driveway:  1.0
+KA-01787 Commercial Waste Disposal:  1.0
+KA-02654 Commissioner of Deeds Registration:  0.9913617886178862
+KA-01532 Communicable Diseases:  1.0
+KA-01533 Community Action Program:  1.0
+KA-01785 Community Boards:  1.0
+KA-03187 Community Cleanup Tool Loan Program:  1.0
+KA-01534 Community Emergency Response Team (CERT) Program:  1.0
+KA-02655 Community Health Profile:  1.0
+KA-02027 Community Health Program:  1.0
+KA-01879 Community Private Sewage Disposal System Permit:  1.0
+KA-02656 Community Retrofit NYC Program:  0.9745972738537795
+KA-02657 Commuter Benefits Law:  1.0
+KA-02030 Composting:  1.0
+KA-02031 Composting Site Permit:  1.0
+KA-01695 Con Edison Worksites:  1.0
+KA-01696 Concrete Testing Laboratory License:  1.0
+KA-01535 Conference Planning:  1.0
+KA-01279 Construction Job Training:  1.0
+KA-02241 Construction Site No Smoking Sign Complaint:  1.0
+KA-02658 Construction Site Safety:  0.9737283398546674
+KA-01280 Construction Site Sign Requirements:  1.0
+KA-01697 Construction Superintendent Registration:  1.0
+KA-01164 Construction Vendor Prequalification Application:  1.0
+KA-01023 Consulate or Embassy:  1.0
+KA-02660 Consumer Tips for Seniors:  1.0
+KA-02661 Conversion Therapy Complaint:  1.0
+KA-02662 Cooking Oil and Grease Disposal:  1.0
+KA-02663 Cooling Centers:  1.0
+KA-02243 Cooling Tower Complaint:  1.0
+KA-02664 Cooling Tower Registration and Maintenance:  1.0
+KA-02286 Co-op and Condo Property Tax Abatement:  0.9965572888649812
+KA-01078 Co-Op or Condo Complaint:  1.0
+KA-01165 Corporate Emergency Access System (CEAS) Program:  1.0
+KA-01166 Corporation Dissolution:  1.0
+KA-01167 Correctional Facility Pass for Attorneys:  1.0
+KA-01413 Cosmetics Complaint:  1.0
+KA-01414 Counterfeit Item Sale:  1.0
+KA-01168 Counterfeit Money:  1.0
+KA-02665 CountNYC:  0.9822161422708618
+KA-01029 County Clerk:  0.9924280666330136
+KA-02666 Court:  0.6438223938223938
+KA-01281 Court and Trust Fund Claim:  1.0
+KA-01282 CPR and AED Training:  1.0
+KA-01169 Crane and Derrick Permit:  1.0
+KA-02053 Crane or Derrick Complaint:  1.0
+KA-02244 Crash Barrier Complaint:  1.0
+KA-02513 Crash Barrier Request:  1.0
+KA-01415 Credit Card Complaint:  1.0
+KA-02667 Credit Report:  1.0
+KA-01536 Cremation:  1.0
+KA-01698 Crematory Permit:  1.0
+KA-01170 Cribs for Families in Need:  1.0
+KA-02668 Crime Stoppers Tip:  1.0
+KA-02527 Crime Victim Property Tax Exemption:  1.0
+KA-02379 Crime Victim Support:  1.0
+KA-01171 Criminal Court:  1.0
+KA-01537 Criminal Mischief:  1.0
+KA-02669 Criminal Record:  0.9889967637540453
+KA-01172 Crisis Support for Veterans:  1.0
+KA-01173 Cross Connection and Water Backflow Prevention:  1.0
+KA-01283 Crosswalk Request:  1.0
+KA-01174 Cultural Program Grant:  1.0
+KA-01175 Cultural Project Funding:  1.0
+KA-02671 Culture Pass:  1.0
+KA-02199 Culvert Clogged or Blocked:  1.0
+KA-02109 CUNY Accelerated Study in Associate Programs (ASAP):  1.0
+KA-02113 CUNY and SUNY Free Tuition:  1.0
+KA-02110 CUNY Prep:  1.0
+KA-01163 CUNY Special Programs:  1.0
+KA-02112 CUNY Start:  0.9843673668783586
+KA-01083 Curb Complaint:  1.0
+KA-02117 Curb Cut Permit:  0.9707401032702238
+KA-01284 Custom Street Sign:  1.0
+KA-02672 Cut the Salt:  1.0
+KA-02142 Damaged or Defective Goods:  1.0
+KA-01538 Dangerous Animal:  1.0
+KA-01033 Dangerous Location or Situation:  1.0
+KA-01700 Dating Service Complaint:  1.0
+KA-01539 Dating Violence Prevention:  1.0
+KA-02240 Day Care Center Complaint:  1.0
+KA-02339 Day Care Permit and Operation:  1.0
+KA-02673 Daylight Saving Time:  1.0
+KA-02245 Dead Animal:  0.9975257731958763
+KA-02006 Dead Tree:  1.0
+KA-02674 Deaf and Hard of Hearing Services:  1.0
+KA-02190 Dealer in Products for the Disabled Complaint:  1.0
+KA-01848 Dealer in Products for the Disabled License:  1.0
+KA-01028 Death Certificate:  0.9930625285257874
+KA-01540 Death Investigation:  1.0
+KA-02189 Debt Collection Agency Complaint:  1.0
+KA-01855 Debt Collection Agency License:  1.0
+KA-02675 Debt Management:  1.0
+KA-02519 Debt Relief for Military Service Members:  1.0
+KA-02102 Deck and Porch Permit:  0.9584352078239609
+KA-01285 Deer:  1.0
+KA-02676 Deferred Action for Childhood Arrivals (DACA):  1.0
+KA-01286 Dental Amalgam Separator Registration:  1.0
+KA-02677 Dental Care:  1.0
+KA-01176 Department for the Aging Presentation or Training:  1.0
+KA-01177 Department of Buildings Document Fraud:  1.0
+KA-02678 Department of Buildings ID or Job Penalization Status:  1.0
+KA-01910 Department of Buildings Notice Defaced:  1.0
+KA-02715 Department of Buildings Proof of Compliance to Correct ECB Violation:  1.0
+KA-02679 Department of Citywide Administrative Services Building Security Complaint:  1.0
+KA-01178 Department of Consumer Affairs License and Complaint Sign:  1.0
+KA-02681 Department of Consumer Affairs License Authority to Act Withdrawal:  1.0
+KA-02682 Department of Consumer Affairs License Replacement:  1.0
+KA-02684 Department of Consumer Affairs Online Licensing:  1.0
+KA-01179 Department of Consumer Affairs Public Outreach:  1.0
+KA-02683 Department of Consumer Affairs Violation Business Assistance:  1.0
+KA-01181 Department of Design and Construction (DDC) Services and Projects:  1.0
+KA-03109 Department of Education Feedback:  1.0
+KA-01182 Department of Environmental Protection Public Outreach:  1.0
+KA-01015 Department of Finance Business Centers:  1.0
+KA-03137 Department of Finance Public Events:  1.0
+KA-01183 Department of Health Clinic Feedback:  1.0
+KA-02685 Department of Health Clinics:  1.0
+KA-01184 Department of Health Public Outreach:  1.0
+KA-02056 Department of Motor Vehicles (DMV):  1.0
+KA-01185 Department of Sanitation Literature Bulk Order:  1.0
+KA-01287 Department of Sanitation Public Outreach:  1.0
+KA-01186 Department of Sanitation Vehicle Accident:  1.0
+KA-02363 Department of Sanitation Worker or Vehicle Complaint:  1.0
+KA-03127 Department of Transportation Document Translation:  1.0
+KA-02686 Depression Health Bulletin:  1.0
+KA-01416 Design Commission Photographs:  1.0
+KA-01289 Development or Zoning Challenge:  1.0
+KA-02092 Developmentally Delayed Infant Services:  1.0
+KA-02687 Diabetes:  1.0
+KA-01291 Directory Assistance:  1.0
+KA-02141 Dirty Gutter:  1.0
+KA-01803 Dirty Sidewalk:  1.0
+KA-02133 Dirty Yard or Alley:  1.0
+KA-02321 Disability Access:  0.9834552420759317
+KA-02524 Disabled Homeowners' Exemption (DHE):  0.9934401649329959
+KA-03119 Disabled Homeowners' Exemption (DHE) Renewal:  0.9934157484547165
+KA-02052 Disabled Vehicle:  1.0
+KA-01292 Disaster Preparedness for Businesses:  1.0
+KA-01417 Disaster Recovery for Businesses:  1.0
+KA-01783 Discrimination:  1.0
+KA-02215 Disorderly Person or Group:  1.0
+KA-02032 Divorce and Separation:  1.0
+KA-01031 Divorce Record:  1.0
+KA-02445 DOB NOW:  1.0
+KA-02688 Dockless Bike Share:  0.9893908907993415
+KA-01418 Doctor Complaint:  1.0
+KA-01890 Dog License:  0.9543077346545554
+KA-02247 Dog or Animal Waste:  1.0
+KA-02689 Dogs in Restaurants:  1.0
+KA-02690 Doing Business Search:  1.0
+KA-02691 Domestic Partnership:  0.980152027027027
+KA-01217 Domestic Violence:  0.9925925925925926
+KA-01293 Domestic Violence Offender Counseling:  1.0
+KA-02692 Domestic Violence Shelter Complaint:  1.0
+KA-02188 Domestic Worker Employment Agency Complaint:  1.0
+KA-01885 Donate Art Supplies:  1.0
+KA-01419 Donate Blood:  1.0
+KA-02424 Donate Goods:  1.0
+KA-01420 Donate Organs or Tissue:  1.0
+KA-02693 Donate to Animal Shelters:  1.0
+KA-02694 Donate to Disaster Relief:  1.0
+KA-02695 Donate to Families of Fallen Police Officers and Firefighters:  1.0
+KA-02696 Donate to New York City:  1.0
+KA-01798 Donate to School Gardens:  1.0
+KA-01421 Donate to Schools:  1.0
+KA-01422 Donate to the Aging in New York Fund:  1.0
+KA-01423 Donate to the Homeless Trust Fund:  1.0
+KA-01425 Donate to the New York Police Department:  1.0
+KA-01424 Donate to the NYC Parks Stewardship Program:  1.0
+KA-01426 Donate to the Summer Youth Employment Program:  1.0
+KA-01427 Donate, Buy, or Sell Assistive and Medical Devices:  1.0
+KA-02187 Door-to-Door Sales Complaint:  1.0
+KA-02046 Drag Racing:  1.0
+KA-01402 Drinking Water:  0.9923833703586163
+KA-02387 Driver's License:  1.0
+KA-01541 Drones:  1.0
+KA-01428 Drug Abuse Resistance Education (DARE):  1.0
+KA-02698 Drug and Alcohol Treatment:  1.0
+KA-01983 Drug Sale:  1.0
+KA-03112 Drug Use:  1.0
+KA-02186 Dry Cleaner Complaint:  1.0
+KA-02201 Dry Cleaning Odor:  1.0
+KA-01429 Dry Cleaning Permit:  1.0
+KA-02128 Dry Weather Sewage Discharge Complaint:  1.0
+KA-01430 Drying Oven Permit:  1.0
+KA-02699 Drywells:  1.0
+KA-02202 Dumping in Catch Basin:  1.0
+KA-02139 Dumpster Complaint:  1.0
+KA-02700 Dumpster Permit:  1.0
+KA-02248 Dust:  1.0
+KA-01431 Dust Collector Permit:  1.0
+KA-02734 Eating Healthy:  1.0
+KA-02704 Ebola Virus:  1.0
+KA-02705 Ebola Virus Poster:  1.0
+KA-01432 Economic Development Corporation Construction Projects:  1.0
+KA-01433 E-Designation Approval Letter:  1.0
+KA-02706 Education Councils:  1.0
+KA-03168 EITC Amended Return:  1.0
+KA-02089 Elder Abuse:  0.9815564552406658
+KA-01434 Elderly Pharmaceutical Insurance Coverage (EPIC) Program:  1.0
+KA-01223 Elected Officials:  1.0
+KA-03114 Elections and Voting:  0.9784823383795106
+KA-02425 Electric Service and Billing:  1.0
+KA-02707 Electric Vehicle:  1.0
+KA-01048 Electrical Complaint:  1.0
+KA-01294 Electrical Inspection:  1.0
+KA-02118 Electrical Wiring Installation Permit:  1.0
+KA-03199 Electrician Apprentice Preparation Program:  1.0
+KA-01435 Electrician License:  1.0
+KA-02328 Electrician or Plumber Complaint:  1.0
+KA-01862 Electronic and Home Appliance Service Dealer License:  1.0
+KA-02340 Electronic Benefit Transfer (EBT) Card:  1.0
+KA-01436 Electronic Benefit Transfer (EBT) Card Reader Assistance for Retailers:  1.0
+KA-01834 Electronic Cigarette Retail Dealer License:  1.0
+KA-02708 Electronics Buying and Selling Guide:  1.0
+KA-02385 Electronics Disposal:  0.9398128898128898
+KA-02185 Electronics or Appliance Repair Complaint:  1.0
+KA-02184 Electronics Store Complaint:  1.0
+KA-01876 Electronics Store License:  1.0
+KA-02709 Elementary School Enrollment:  1.0
+KA-01437 Elevator or Escalator Code and Permit:  1.0
+KA-02015 Elevator or Escalator Complaint:  1.0
+KA-02012 Elevator or Escalator Inspection:  1.0
+KA-01742 Elevator or Escalator Inspection License:  1.0
+KA-01439 Ellis Island:  1.0
+KA-02710 Email Scam:  1.0
+KA-02711 Emergency Action Plan (EAP) Director On-Site Test:  1.0
+KA-01660 Emergency Contraception:  1.0
+KA-02712 Emergency Management Survey:  1.0
+KA-01295 Emergency Notification:  1.0
+KA-02713 Emergency Preparedness:  0.9809248554913295
+KA-01440 Emerging Business Enterprise Program:  1.0
+KA-01542 Emotionally Disturbed Person:  1.0
+KA-01441 Empire State Building:  1.0
+KA-02183 Employment Agency Complaint:  1.0
+KA-02714 Employment Agency Law Poster:  1.0
+KA-01875 Employment Agency License:  1.0
+KA-01296 Enterovirus:  1.0
+KA-01442 Environmental Assessment Statement Form:  1.0
+KA-01443 Environmental Business Assistance:  1.0
+KA-01444 Environmental Education:  1.0
+KA-01445 Environmental Protection Agency Research Programs:  1.0
+KA-02716 Environmental Question:  1.0
+KA-01446 Epilepsy:  1.0
+KA-01947 Essential Service Interruption Notice Not Posted:  1.0
+KA-01984 Essential Service Interruption Notice Rules:  1.0
+KA-02072 Estate Administration:  1.0
+KA-02717 Evacuation Transportation for People with Special Needs:  1.0
+KA-01892 Events:  0.9765319426336375
+KA-01041 Eviction Prevention and HomeBase:  0.9963855421686747
+KA-02103 Excavation or Demolition Permit:  0.9778645833333334
+KA-01912 Excavation Undermining Nearby Building:  1.0
+KA-02718 Excessive Drinking:  1.0
+KA-02203 Exchange, Refund, or Return Complaint:  1.0
+KA-01447 Exhaust System Permit:  1.0
+KA-01448 Exporting Goods:  1.0
+KA-01449 E-Z Pak Garbage Collection:  1.0
+KA-01450 E-ZPass:  1.0
+KA-03181 Fair Fares NYC:  1.0
+KA-03182 Fair Fares NYC Assistance or Complaint:  1.0
+KA-03183 Fair Fares NYC Card Replacement:  1.0
+KA-01451 Fair Housing:  1.0
+KA-02719 Fair Workweek Law:  1.0
+KA-02138 Fallen Tree or Branch:  1.0
+KA-02204 False Advertising:  1.0
+KA-02720 False Advertising Guide:  1.0
+KA-02721 Families Forward Job Training Program:  1.0
+KA-02722 Family Assessment Program (FAP):  1.0
+KA-01678 Family Court:  1.0
+KA-01452 Family Development Credential (FDC) Program:  1.0
+KA-02723 Family Homelessness and Eviction Prevention Supplement (FHEPS):  1.0
+KA-02084 Family Justice Centers:  1.0
+KA-01453 Family Type Homes for Adults:  1.0
+KA-03145 Farm to Preschool Program:  0.98505072076882
+KA-02724 Fast Food Deductions Law:  1.0
+KA-01454 FDNY Ambulance Billing:  1.0
+KA-01455 FDNY Certificate of Fitness:  1.0
+KA-01456 FDNY Permit or Inspection:  1.0
+KA-01961 FDNY Violation:  1.0
+KA-01298 Federal Contracts:  1.0
+KA-01457 Federal Employer ID Number (EIN):  1.0
+KA-01105 Federal Government Jobs:  1.0
+KA-02816 Federal Public Charge Proposal:  1.0
+KA-02502 Federal Tax:  1.0
+KA-01458 Federal Tax for Businesses:  1.0
+KA-02725 FEMA Flood Insurance:  0.8661252900232018
+KA-01459 FEMA Registration Number:  1.0
+KA-02050 Fence Complaint:  1.0
+KA-02120 Fence Permit:  0.9299913569576491
+KA-03174 Fentanyl Poster and Flyer:  1.0
+KA-01299 Feral Cat:  1.0
+KA-01460 Filing Representative Complaint:  1.0
+KA-01461 Film or Television Production Complaint:  1.0
+KA-01462 Film or Video Job:  1.0
+KA-02073 Film, Video, or Photography Permit:  1.0
+KA-01463 Films Produced Last Year:  1.0
+KA-02001 Financial Counseling:  1.0
+KA-02182 Financial Education Network Provider Feedback:  1.0
+KA-01399 Find an Arrested Person:  1.0
+KA-02726 Fingerprinting:  0.9736928641894114
+KA-01464 Fire Alarm and Suppression System Installation:  1.0
+KA-01465 Fire Alarm Box Complaint:  1.0
+KA-01300 Fire Alarm Inspection:  1.0
+KA-02727 Fire Code:  1.0
+KA-01543 Fire Emergency:  1.0
+KA-01466 Fire Hazard:  1.0
+KA-01507 Fire Hydrant Commercial Use Permit:  1.0
+KA-01034 Fire Hydrant Complaint:  1.0
+KA-01467 Fire Hydrant Flow Test:  1.0
+KA-01035 Fire Hydrant Request:  1.0
+KA-01468 Fire Investigation or Fire Marshal Report:  1.0
+KA-02728 Fire or Ambulance Report:  1.0
+KA-02729 Fire Premiums Tax:  1.0
+KA-02730 Fire Safety:  1.0
+KA-02731 Fire Safety Director On-Site Test:  1.0
+KA-01469 Fire Safety in Hotels and Motels:  1.0
+KA-01470 Fire Safety in Office Buildings:  1.0
+KA-01471 Fire Safety Inspection:  1.0
+KA-01472 Fire Suppression Contractor Complaint:  1.0
+KA-01473 Fire Suppression Contractor License:  1.0
+KA-01508 Firehouses:  1.0
+KA-02249 Fireworks Complaint:  1.0
+KA-01301 Fireworks Displays:  1.0
+KA-02732 Fitness Program:  1.0
+KA-02467 Flammable Liquid Disposal:  1.0
+KA-01474 Flea Market License:  1.0
+KA-01475 Floatable Trash in Waterway Boom or Net Containments:  1.0
+KA-01701 Flood Zones:  1.0
+KA-01476 Floor Varnish Safety:  1.0
+KA-02733 Flu Health Bulletin:  1.0
+KA-02703 Flu Poster:  1.0
+KA-02735 Flu Shot and Prevention:  1.0
+KA-02736 Flu Virus in Cats:  1.0
+KA-01373 Foam Ban:  0.990314248816186
+KA-02737 Food Allergy Poster:  1.0
+KA-01477 Food and Nutrition for Seniors:  1.0
+KA-02738 Food Business Pathways for NYCHA Residents:  1.0
+KA-01302 Food Cart Inspection Report:  1.0
+KA-02739 Food Cart Rules:  1.0
+KA-01830 Food Cart Vendor License or Permit:  1.0
+KA-01702 Food for Women, Infants, and Children (WIC):  1.0
+KA-01544 Food or Medicine Recall:  1.0
+KA-02740 Food Pantries and Soup Kitchens:  1.0
+KA-02051 Food Poisoning:  1.0
+KA-02741 Food Protection Certificate Status or Replacement:  1.0
+KA-02742 Food Protection Course:  1.0
+KA-01111 Food Safety Complaint:  1.0
+KA-02007 Food Waste Drop Off:  0.9860834990059643
+KA-01401 Foreclosure Prevention:  1.0
+KA-01545 Foster Care Agency Complaint:  1.0
+KA-01546 Foster Child Assistance:  1.0
+KA-01547 Foster Child Employment:  1.0
+KA-01548 Foul Odor from Unknown Source:  1.0
+KA-02743 Freelance Worker and Hiring Party Assistance:  1.0
+KA-02744 Friendly Visiting Program for Seniors:  1.0
+KA-01850 Frozen Dessert Manufacturer Permit:  1.0
+KA-01703 Fruit and Vegetable License:  1.0
+KA-01704 Fuel Burning Equipment Permit:  0.06818181818181818
+KA-01705 Fuel Oil Tank Installation Permit:  1.0
+KA-02745 Fuel Truck Inspection:  1.0
+KA-02746 Funeral Director Complaint:  1.0
+KA-02747 Funeral Director License:  1.0
+KA-01549 Funeral Financial Assistance:  1.0
+KA-02180 Funeral Home Pricing Complaint:  1.0
+KA-02748 Funeral Planning Guide:  1.0
+KA-02179 Furniture Store Complaint:  1.0
+KA-01550 Gambling:  1.0
+KA-01706 Games of Chance License:  1.0
+KA-02178 Gaming Cafe Complaint:  1.0
+KA-01881 Gaming Cafe License:  1.0
+KA-01551 Gang Resistance Education and Training (GREAT):  1.0
+KA-02100 Garage or Driveway Permit:  0.9589371980676329
+KA-02177 Garage or Parking Lot Complaint:  1.0
+KA-01816 Garage or Parking Lot License:  1.0
+KA-02478 Garbage and Recycling Collection for Businesses:  1.0
+KA-02473 Garbage Collection Request for Residence or Non-Profit:  1.0
+KA-01504 Garbage Disposal Complaint:  1.0
+KA-02356 Garbage or Debris in Street:  1.0
+KA-01303 Garbage or Recycling Bin:  0.0
+KA-02250 Garbage or Recycling Storage Complaint:  1.0
+KA-02335 Garbage Truck Spill:  1.0
+KA-01801 Garbage, Recycling, and Organics Collection:  0.9578109669682765
+KA-02106 Gas Appliance or Pipe Permit:  0.9596199524940617
+KA-02048 Gas Leak:  1.0
+KA-03185 Gas Leak Notice:  0.6220703125
+KA-01913 Gas Piping or Hookup Complaint:  1.0
+KA-02446 Gas Service and Billing:  0.9751351351351352
+KA-02176 Gas Station Complaint:  1.0
+KA-01304 Gas Station Discharge Line Inspection:  1.0
+KA-02749 GED, TASC, and Literacy:  1.0
+KA-02207 Gender Pricing Complaint:  1.0
+KA-01707 General Contractor Registration:  1.0
+KA-02504 General Corporation Tax:  1.0
+KA-01838 General Vendor Distributor License:  1.0
+KA-01833 General Vendor License:  1.0
+KA-02751 Gifted and Talented Program:  1.0
+KA-02753 Golf Courses:  1.0
+KA-02754 Good Choice Healthy Food Program for Distributors:  1.0
+KA-02205 Goods or Services Not Delivered:  1.0
+KA-01187 Governor:  1.0
+KA-02755 Governors Island:  0.9816676522767593
+KA-02756 Gracie Mansion Tour:  0.993127147766323
+KA-02070 Graffiti:  1.0
+KA-02338 Graffiti and Building Owners:  0.9937243020991128
+KA-02757 Grandparents Raising Children:  1.0
+KA-01305 Green Cart Permit:  1.0
+KA-02758 Green Cart Rules:  1.0
+KA-01552 Green Energy Training:  0.9906914893617021
+KA-01553 Green Thumb Garden Program:  1.0
+KA-02028 Greenmarkets and Farmers Markets:  1.0
+KA-01554 Greenstreets Program:  1.0
+KA-02759 Gridlock Alert Days:  1.0
+KA-01555 Grocery Store Sale Requirements:  1.0
+KA-01708 Groundwater Discharge Permit:  1.0
+KA-02760 Group Meals for Seniors:  1.0
+KA-01709 Grow a Small Business:  1.0
+KA-02761 Growing Up NYC:  1.0
+KA-01556 Guard Dog Registration:  1.0
+KA-01307 Gun Laws:  1.0
+KA-01683 Gun Permit:  1.0
+KA-02762 Gun Tip:  1.0
+KA-01557 Gunshot:  1.0
+KA-01558 Gym or Health Spa Membership Complaint:  1.0
+KA-02763 Gynecologist:  1.0
+KA-01559 Hansen's Disease:  1.0
+KA-01216 Harassment:  1.0
+KA-02485 Harmful Household Product:  1.0
+KA-02764 Hart Island Cemetery:  1.0
+KA-01560 HASA Broker Assistance:  1.0
+KA-01561 Hate Crime:  1.0
+KA-01562 Hazard Analysis Critical Control Point Plan:  1.0
+KA-01308 Hazardous Material Inspection:  1.0
+KA-01188 Hazardous Materials:  1.0
+KA-01563 Head Start:  1.0
+KA-01189 Health Academy Registration Assistance:  1.0
+KA-02765 Health and Mental Hygiene Literature:  1.0
+KA-03095 Health Care Advance Planning Health Bulletin:  1.0
+KA-02082 Health Care for Former Inmates:  1.0
+KA-01897 Health Care Provider Assistance:  1.0
+KA-01049 Health Care Proxy:  1.0
+KA-01564 Health Code Public Hearings:  1.0
+KA-02766 Health Department Online Licensing:  1.0
+KA-02767 Health Insurance:  1.0
+KA-03167 Health Insurance Application Assistance:  1.0
+KA-02093 Health Insurance for Children:  1.0
+KA-02438 Health Insurance for People with Disabilities:  0.9884816753926702
+KA-02439 Health Insurance for Seniors:  0.9894085281980742
+KA-02768 Health Passport:  1.0
+KA-01309 Health Research Training Program:  1.0
+KA-02769 Health Screenings:  1.0
+KA-03100 Health Services for Women:  1.0
+KA-01310 Healthcare Job Training:  1.0
+KA-01565 Healthy Homes:  1.0
+KA-02770 Healthy Weight for Children Booklet:  1.0
+KA-02771 Heart Age Calculator:  1.0
+KA-02529 Heat and Utility Bill Assistance:  1.0
+KA-02122 Heat Complaint in a Non-Residential Building:  1.0
+KA-01036 Heat or Hot Water Complaint in a Residential Building:  1.0
+KA-02096 Heating or Ventilation System Permit:  0.9625550660792952
+KA-02772 Hepatitis:  1.0
+KA-02773 High Blood Pressure:  1.0
+KA-02774 High School Enrollment:  0.990205680705191
+KA-02775 High School Work-Based Learning:  1.0
+KA-02175 Higher Education Complaint:  1.0
+KA-01667 Highway Fence Complaint:  1.0
+KA-02200 Highway Flooding:  1.0
+KA-01951 Highway Line Marking Complaint:  1.0
+KA-01237 Highway Plate Complaint:  1.0
+KA-01666 Highway Resurfacing Request:  1.0
+KA-02145 Highway Sign Complaint:  1.0
+KA-02776 Hiring Services:  1.0
+KA-02750 Historic Birth, Death, or Marriage Record:  1.0
+KA-02777 Historical Societies:  1.0
+KA-02778 HIV and AIDS Report:  1.0
+KA-02779 HIV and AIDS Services:  0.98120764017252
+KA-01659 HIV Prevention:  1.0
+KA-02780 HIV Test and Treatment:  1.0
+KA-01711 Hoisting and Rigging Permit:  1.0
+KA-01712 Hoisting Machine Operator License:  1.0
+KA-02781 Holiday Shopping Tips:  1.0
+KA-02782 Home Care:  1.0
+KA-02251 Home Care Complaint:  1.0
+KA-02252 Home Delivered Meals for Seniors:  1.0
+KA-02174 Home Heating Oil Company Complaint:  1.0
+KA-02173 Home Improvement Contractor Complaint:  1.0
+KA-01808 Home Improvement Contractor License:  1.0
+KA-02783 Home Improvement Contractor License Check:  1.0
+KA-02784 Home Improvement Guide:  1.0
+KA-02119 Home Improvement Permit:  1.0
+KA-01807 Home Improvement Salesperson License:  1.0
+KA-02785 Home Instruction and Schooling:  1.0
+KA-02786 Home Ownership:  1.0
+KA-02787 Home Repair Grant or Loan:  0.9869565217391304
+KA-02788 HOME Tenant-Based Rental Assistance Program (TBRA):  1.0
+KA-02789 Home Water Assistance Program:  1.0
+KA-02528 Homeless Drop-In Centers:  1.0
+KA-02253 Homeless Encampment:  1.0
+KA-01037 Homeless Outreach:  1.0
+KA-01190 Homeless Person or Family Contact:  1.0
+KA-02790 Homeless Shelter Aftercare:  1.0
+KA-01039 Homeless Shelter Complaint:  1.0
+KA-01566 Homeless Shelter Resident Assistance:  1.0
+KA-02501 Homeless Shelters:  0.987060435378292
+KA-03190 Homeowners Night:  0.9899103139013453
+KA-02791 Homeownership Workshop:  1.0
+KA-03176 Hookah Warning Signs:  1.0
+KA-02172 Horse Drawn Cab Business Complaint:  1.0
+KA-01839 Horse Drawn Cab Driver License:  1.0
+KA-01814 Horse Drawn Cab License:  1.0
+KA-02792 Horse Race Admissions Tax:  1.0
+KA-01713 Horse Racing License:  1.0
+KA-01849 Horse Stable Permit:  1.0
+KA-01312 Horseback Riding Trails:  1.0
+KA-01503 Hospital or Clinic Complaint:  1.0
+KA-02793 Hospitals:  1.0
+KA-02171 Hotel Contract Complaint:  1.0
+KA-02794 Hotel Room Occupancy Tax:  1.0
+KA-02795 Housing Code Enforcement Notice for Residential Property Owners:  0.9748502994011976
+KA-01075 Housing Court for Tenants and Landlords:  1.0
+KA-02798 Housing Information Guide Notice:  1.0
+KA-01948 Housing Information Guide Notice Not Posted:  1.0
+KA-01714 Housing Mobility Program:  1.0
+KA-01069 Housing Options for Seniors:  1.0
+KA-02800 Housing Resources for People with Disabilities:  1.0
+KA-01985 Housing Rules for Owners and Tenants:  1.0
+KA-02317 Housing Used for Short-Term Rental (Vacation Rentals or Illegal Home-Sharing):  1.0
+KA-01313 Housing Vacancy Survey:  1.0
+KA-02801 HOV Lanes:  1.0
+KA-02802 Hoverboard:  0.9352941176470588
+KA-01073 HPD Building Information and Code Enforcement Borough Service Centers:  0.9880299251870324
+KA-01964 HPD Section 8:  0.9933469805527124
+KA-01974 HPD Section 8 for Landlords:  1.0
+KA-01975 HPD Section 8 for Tenants:  0.987659574468085
+KA-01976 HPD Section 8 Housing Quality Standards (HQS) Inspections:  0.9939963978387032
+KA-01494 HPD Section 8 Landlord or Tenant Fraud:  1.0
+KA-02803 HPD Violation Removal for Landlords:  1.0
+KA-02804 HPV Protection:  1.0
+KA-01191 HUD-Owned Buildings:  1.0
+KA-02805 Human Rights Outreach:  1.0
+KA-02806 Human Trafficking:  1.0
+KA-02807 Hunting and Fishing License:  1.0
+KA-01715 Hurricane Sandy Business Assistance:  1.0
+KA-01567 Hurricane Sandy Fraud:  1.0
+KA-01314 Hurricane Sandy Property Tax Relief:  1.0
+KA-02808 Hurricane Sandy Recovery:  0.9990061053528326
+KA-02809 Hurricane Service Centers:  1.0
+KA-02810 Hurricanes:  1.0
+KA-02811 Ice Skating Rinks:  1.0
+KA-02533 Identity Theft:  1.0
+KA-02222 Idling Vehicle:  1.0
+KA-02503 IDNYC Benefits:  1.0
+KA-03126 IDNYC Card Corrections, Changes, and Lost Cards:  1.0
+KA-03111 IDNYC Complaints, Status, and Questions:  1.0
+KA-03110 IDNYC Documents Required to Apply:  1.0
+KA-02497 IDNYC Municipal ID Card:  1.0
+KA-02255 Illegal Animal:  0.9655275779376499
+KA-02025 Illegal Building Conversion or Occupancy:  1.0
+KA-02097 Illegal Dumping:  1.0
+KA-02518 Illegal Eviction or Lockout:  1.0
+KA-01986 Illegal Parking:  1.0
+KA-02812 Immigrant Assistance:  0.9485148514851485
+KA-02813 Immigrant Business Services:  0.9646721418328771
+KA-01568 Immigrant Fraud:  1.0
+KA-01043 Immigration and Citizenship:  0.9773505689979007
+KA-03218 Immigration and Customs Enforcement (ICE) Raids:  1.0
+KA-01716 Immigration or Naturalization Record:  1.0
+KA-01923 Immigration Service Provider Complaint:  1.0
+KA-02814 Immigration Service Provider Consumer Guide:  1.0
+KA-01569 Immunization Record:  1.0
+KA-02817 In Rem Foreclosure:  1.0
+KA-02818 Income Savings Requirement for Homeless Shelter Residents:  1.0
+KA-01570 Independent Living Centers:  1.0
+KA-02819 Industrial and Manufacturing Business Assistance:  1.0
+KA-01315 Industrial Job Training:  1.0
+KA-01820 Industrial Laundry Delivery License:  1.0
+KA-01867 Industrial Laundry License:  1.0
+KA-01718 Industrial Waste Discharge Permit:  1.0
+KA-01717 Industrial Work or Air Pollution Control Equipment Permit or Certificate:  1.0
+KA-01789 Injured or Sick Animal:  1.0
+KA-01959 Inmate Account:  1.0
+KA-01571 Inmate Enrollment or Student Record:  1.0
+KA-01968 Inmate Item Delivery:  1.0
+KA-02820 Inmate Jail Release Services:  1.0
+KA-01960 Inmate Location and Information:  0.9389684813753582
+KA-01227 Inmate Medical Concern:  1.0
+KA-01971 Inmate Notification or Visit for Family Illness or Death:  1.0
+KA-02083 Inmate Property Pickup:  0.986318407960199
+KA-02003 Inmate Video Visitation:  1.0
+KA-02002 Inmate Visit:  1.0
+KA-01192 In-School Youth Program:  1.0
+KA-02821 Insurance Complaint:  1.0
+KA-02822 Intercity Bus Permit:  1.0
+KA-02823 Interim Flood Protection Measures Program:  1.0
+KA-02824 International Affairs Community Assistance:  1.0
+KA-02825 Internet Scam Guide:  1.0
+KA-01572 Internet Service or Online Business Complaint:  1.0
+KA-02826 Internship:  1.0
+KA-03169 Invasive Plant Species:  1.0
+KA-02525 Invite the Mayor to an Event:  0.9148936170212766
+KA-01573 IRS Impersonation:  1.0
+KA-02384 Jail System Complaint:  0.9601063829787234
+KA-02256 Janitor or Super Not Available:  1.0
+KA-01719 Jeweler Complaint:  1.0
+KA-02170 Jewelry Appraisal Complaint:  1.0
+KA-01225 Job Center Complaint:  1.0
+KA-01720 Job Corps:  1.0
+KA-01721 Job Placement and Training for NYCHA Residents:  1.0
+KA-01316 Job Training:  1.0
+KA-02827 Job Training and Placement for Foreign-Born New Yorkers:  1.0
+KA-02440 Job Training and Placement for People with Disabilities:  1.0
+KA-02828 Job Training and Placement for Public Assistance Clients:  1.0
+KA-02829 Job Training and Placement for Seniors:  1.0
+KA-02830 Job Training and Placement for Veterans:  1.0
+KA-02831 Job Training Grants for Businesses:  1.0
+KA-01317 Job Training Grants for Workers:  1.0
+KA-02832 Judge Complaint:  1.0
+KA-02087 Jury Duty:  0.9780294450736127
+KA-02833 Juvenile Detention:  1.0
+KA-01574 Juvenile Fire Setters Intervention:  1.0
+KA-02079 Juvenile Probation Supervision:  1.0
+KA-02834 Kindergarten Enrollment:  0.9880277252678009
+KA-02835 Know Before You Enroll Tips:  1.0
+KA-02836 L Train Project:  0.983679525222552
+KA-02488 Labor Law:  1.0
+KA-02837 Land Use and Development Appeal:  1.0
+KA-02838 Landmark Application:  1.0
+KA-02043 Landmark Building Alteration Permit:  1.0
+KA-02257 Landmark Building Complaint:  1.0
+KA-01722 Landmark Building Restoration Grant:  1.0
+KA-02839 Landmarks:  1.0
+KA-02482 Landscaper Waste Requirements:  1.0
+KA-01318 Large Planter Permit:  1.0
+KA-02169 Laundry Complaint:  1.0
+KA-01987 Lawyer Complaint:  1.0
+KA-02208 Layaway Complaint:  1.0
+KA-01403 Lead in Drinking Water:  0.9824108818011257
+KA-02840 Lead Law:  0.986286341195831
+KA-02134 Lead Paint:  1.0
+KA-02841 Lead Paint Repair Grant:  1.0
+KA-02842 Lead Safety:  1.0
+KA-02843 Lead Safety for Landlords and Construction Professionals:  1.0
+KA-01319 Leaf Disposal:  1.0
+KA-02441 Learning Disabilities:  1.0
+KA-01193 Lease City Property:  1.0
+KA-01194 Lease or Sell Property to the City:  1.0
+KA-01040 Legal Assistance:  1.0
+KA-02845 Legionnaires Disease:  1.0
+KA-02846 Leptospirosis:  1.0
+KA-01195 Letter of Incarceration:  1.0
+KA-01576 Lewd Act:  1.0
+KA-01577 LGBTQ Runaway and Homeless Youth Report:  1.0
+KA-02847 LGBTQ Services and Resources:  0.98989898989899
+KA-01065 Libraries:  0.9652825051055139
+KA-02848 Licensed Home Improvement Contractor Bumper Sticker:  1.0
+KA-01512 Lien Sale:  1.0
+KA-02258 Lifeguard Complaint:  0.8754448398576512
+KA-02259 Light from Parking Lot Complaint:  1.0
+KA-02260 LinkNYC:  1.0
+KA-02143 Litter Basket Complaint:  1.0
+KA-02357 Litter Basket Request:  1.0
+KA-01672 Litter on Highway:  1.0
+KA-01673 Littering:  1.0
+KA-02849 Liver Health:  1.0
+KA-02850 Living in Communities (LINC) Rent Program for Clients:  1.0
+KA-01578 Living in Communities (LINC) Rent Program for Landlords:  1.0
+KA-02851 Lobbyist Registration:  1.0
+KA-01196 Locally Based Enterprises (LBE) Program:  1.0
+KA-01856 Locksmith Apprentice License:  1.0
+KA-02168 Locksmith Complaint:  1.0
+KA-01809 Locksmith License:  1.0
+KA-01077 Loft Complaint:  1.0
+KA-01723 Loft Law Application:  1.0
+KA-01724 Loft Law Enforcement:  1.0
+KA-01211 Long Island Rail Road:  1.0
+KA-02331 Loose Garbage:  1.0
+KA-01197 Lost Item in Garbage:  1.0
+KA-01232 Lost Item in Sidewalk Grating:  1.0
+KA-01231 Lost or Found Property:  1.0
+KA-02852 Lost or Seized Pet:  1.0
+KA-01321 Love Your Local Program:  1.0
+KA-01725 Made in New York Incentive Program:  1.0
+KA-01726 Made In New York Production Assistant Program:  1.0
+KA-03200 Made in New York Program:  1.0
+KA-02167 Mail Order Complaint:  1.0
+KA-02853 Mammogram:  1.0
+KA-01198 Managed Care Complaint:  1.0
+KA-02261 Manhattan Resident Parking Tax Exemption:  1.0
+KA-01669 Manhole Cover Complaint:  1.0
+KA-01235 Manhole Flooding:  1.0
+KA-02033 Manhole Installation Permit:  1.0
+KA-02854 Marinas:  1.0
+KA-02124 Marriage Ceremony:  1.0
+KA-02855 Marriage in a Foreign Country:  0.9864559819413092
+KA-02115 Marriage License:  1.0
+KA-02856 Marriage Officiant Registration:  1.0
+KA-01030 Marriage Record:  0.45401174168297453
+KA-02088 Marriage Registration:  1.0
+KA-01727 Material and Equipment Acceptance Application:  1.0
+KA-02378 Mattress or Box Spring Disposal:  0.9017766497461929
+KA-01226 Mayor:  1.0
+KA-01322 Mayors Against Illegal Guns:  1.0
+KA-02857 Mayor's Management Report (MMR):  1.0
+KA-02858 Measles:  1.0
+KA-02859 Mechanical Sprinkler or Standpipe Inspection:  1.0
+KA-01016 Mediation:  1.0
+KA-02861 Medicaid:  1.0
+KA-01579 Medicaid Complaint:  1.0
+KA-01323 Medical Alert Device for Seniors:  1.0
+KA-01580 Medical Device Complaint:  1.0
+KA-01581 Medical Emergency:  1.0
+KA-02862 Medical Facility Vital Event Registration:  1.0
+KA-02863 Medical Record:  1.0
+KA-01582 Medical Record for Current or Former Inmates:  1.0
+KA-01583 Medical Transportation for Medicaid Clients:  1.0
+KA-02423 Medical Waste Disposal:  1.0
+KA-01674 Medicare:  0.9922220527680342
+KA-01584 Medicare Fraud or Abuse:  0.32558139534883723
+KA-02864 Meningitis:  1.0
+KA-02081 Mental Health Care for Former Inmates:  1.0
+KA-01324 Mental Health First Aid Training:  1.0
+KA-01325 Mental Health Patient Not Following Treatment Plan:  1.0
+KA-01326 Mental Health Services for Seniors:  1.0
+KA-01682 Mental Health Support and NYC Well:  0.9932562620423893
+KA-01327 MenuStat Restaurant Nutrition Database:  1.0
+KA-01585 Metal Detector Permit:  1.0
+KA-01212 Metro-North Railroad:  1.0
+KA-02865 Middle School Enrollment:  0.9977898332328712
+KA-02866 Military Discharge or Separation Documents:  1.0
+KA-01199 Military Draft Registration:  1.0
+KA-01586 Military Family Emergency Communication:  1.0
+KA-01728 Mini-Storage Complaint:  1.0
+KA-01328 Minority and Women-Owned Business Assistance:  1.0
+KA-02867 Minority and Women-Owned Business Enterprise (M/WBE) and Locally-Based Enterprise (LBE) Directory:  1.0
+KA-02868 Minority and Women-Owned Business Enterprise (M/WBE) Program:  1.0
+KA-02869 Minority and Women-Owned Business Enterprise (M/WBE) Recruitment:  1.0
+KA-01329 Minority and Women-Owned Construction Business Assistance:  1.0
+KA-01788 Missed Garbage, Recycling, or Organics Collection:  0.8981113320079522
+KA-01046 Missing Person:  1.0
+KA-01967 Mitchell-Lama Housing:  1.0
+KA-01330 Mobile Recreation Van:  1.0
+KA-02870 Mobility Management Guide:  1.0
+KA-02871 Mold:  1.0
+KA-02262 Mold Complaint:  1.0
+KA-02872 Money Management Workshop:  1.0
+KA-01200 Money Transmitter Complaint:  1.0
+KA-02873 Mortgage Assistance Program:  1.0
+KA-01201 Mortgage or Loan Company Complaint:  1.0
+KA-02263 Mosquitoes:  1.0
+KA-01587 Motion Picture Projectionist License:  1.0
+KA-01729 Motor Vehicle Inspection License:  1.0
+KA-02874 Multi-Family Water Assistance Program (MWAP):  1.0
+KA-02264 Municipal Parking Garage or Lot Complaint:  0.9841534612176814
+KA-01730 Municipal Water Finance Authority:  1.0
+KA-02875 Museums:  1.0
+KA-02069 Musician or Performer Permit:  1.0
+KA-01929 Nail Salon Odor:  1.0
+KA-03175 Naloxone Poster:  1.0
+KA-01024 Name Change:  0.9950289975144988
+KA-01331 National Disaster Resilience Competition:  1.0
+KA-01202 National Gas Price Trends:  1.0
+KA-01203 National Service Program:  1.0
+KA-02265 Naturally Occurring Retirement Community (NORC) Complaint:  1.0
+KA-02876 Nature Centers:  1.0
+KA-01332 Neighbor Odor:  1.0
+KA-01953 Neighborhood Area Map Complaint:  1.0
+KA-01731 Neighborhood Challenge Innovation Grant:  1.0
+KA-01732 Neighborhood Redevelopment Program:  1.0
+KA-01213 New Jersey Transit:  1.0
+KA-02066 New Mother Home Visit:  1.0
+KA-02877 New York City Counties:  0.5648854961832062
+KA-01733 New York Mets:  1.0
+KA-01589 New York Police Department (NYPD):  1.0
+KA-01590 New York Police Department Youth Program:  1.0
+KA-03184 New York State DREAM Act:  1.0
+KA-01734 New York State Licensed Professional or Business Complaint:  1.0
+KA-02878 New York State Professional or Business License or Permit:  1.0
+KA-02879 New York Water Taxi:  1.0
+KA-02880 New York Waterway Ferry:  1.0
+KA-02881 New York Yankees:  0.9190600522193212
+KA-02266 Newspaper Box Complaint:  1.0
+KA-02882 Newsrack Registration:  1.0
+KA-02166 Newsstand Complaint:  1.0
+KA-01828 Newsstand License:  1.0
+KA-01333 Newtown Creek Visitor Center:  1.0
+KA-01909 No Penalty Deck and Porch Inspection:  1.0
+KA-01919 No Penalty Retaining Wall Inspection:  1.0
+KA-02883 No Smoking Sign:  1.0
+KA-02125 Noise:  1.0
+KA-01933 Noise from Air Conditioner or Ventilation Equipment:  1.0
+KA-02884 Noise from Airplane:  1.0
+KA-01085 Noise from Bar or Club:  1.0
+KA-01934 Noise from Boat:  1.0
+KA-01091 Noise from Construction:  1.0
+KA-01087 Noise from Dog or Other Animal:  1.0
+KA-01935 Noise from Factory:  1.0
+KA-01096 Noise from Garbage Truck:  1.0
+KA-02267 Noise from Helicopter:  1.0
+KA-01086 Noise from House of Worship:  1.0
+KA-01097 Noise from Ice Cream Truck:  1.0
+KA-01098 Noise from Intercity or Interstate Bus:  1.0
+KA-01591 Noise from Large Party or Crowd:  1.0
+KA-01101 Noise from Lawn Equipment:  1.0
+KA-01017 Noise from Neighbor:  1.0
+KA-01088 Noise from Park:  1.0
+KA-01090 Noise from Store or Business:  1.0
+KA-01092 Noise from Street or Sidewalk:  1.0
+KA-01102 Noise from Vehicle:  1.0
+KA-02388 Non-Driver ID Card:  1.0
+KA-02885 Non-Profit Assistance:  0.9526003949967083
+KA-02268 Non-Residential Building Maintenance Complaint:  1.0
+KA-01829 Non-Retail Food Processing Establishment Permit:  1.0
+KA-02886 Non-Tobacco Hookah Permit:  1.0
+KA-02887 Notary Public Tips:  1.0
+KA-01082 Notify NYC:  1.0
+KA-01334 Novel Coronavirus or Middle East Respiratory Syndrome (MERS):  1.0
+KA-03201 Nurse Licensing Exam Preparation for Immigrant Nurses:  1.0
+KA-02064 Nurses for Pregnant Women and Teens:  1.0
+KA-01735 Nursing Home Complaint:  1.0
+KA-02114 NY Connects Long Term Care:  1.0
+KA-01592 NYC and Company Business Membership:  1.0
+KA-03202 NYC Building Operator Training:  1.0
+KA-02888 NYC Business:  1.0
+KA-02029 NYC Compost Project:  1.0
+KA-01658 NYC Condoms:  1.0
+KA-02889 NYC Connected and Broadband Access:  1.0
+KA-03203 NYC CoolRoofs Job Training and Placement:  1.0
+KA-02376 NYC Ferry:  0.981149147941487
+KA-02891 NYC Food Standards:  1.0
+KA-02892 NYC Green Infrastructure Plan:  1.0
+KA-02893 NYC OpenData:  1.0
+KA-02217 NYC Parks Stewardship Program:  1.0
+KA-02894 NYC Radio and Television:  1.0
+KA-02799 NYC Rent Guidelines Board Housing Report:  1.0
+KA-02895 NYC Retrofit Accelerator Program:  0.983265306122449
+KA-02896 NYC Schools Account:  0.9582392776523702
+KA-02897 NYC Secure Mobile App:  1.0
+KA-02898 NYC Small Business Support Center:  1.0
+KA-02498 NYC311:  0.9931550802139038
+KA-01336 NYC311 Content API:  1.0
+KA-02419 NYC311 Feedback:  1.0
+KA-01025 NYC311 Mobile App:  1.0
+KA-01502 NYCHA Borough Management Office:  1.0
+KA-02063 NYCHA Community Service Requirement:  1.0
+KA-01337 NYCHA Emergency Transfer:  1.0
+KA-02091 NYCHA Fees and Charges:  1.0
+KA-01052 NYCHA Pet Policy:  1.0
+KA-01076 NYCHA Public Housing Maintenance Complaint:  1.0
+KA-01963 NYCHA Public Housing Section 8:  0.9685099846390169
+KA-02899 NYCHA Public Housing Section 8 for Landlords:  1.0
+KA-01664 NYCHA Public Housing Section 8 Fraud:  1.0
+KA-02900 NYCHA Rent Payment:  1.0
+KA-01338 NYCStat Stimulus Tracker:  1.0
+KA-01736 Oath of Office:  1.0
+KA-03180 Off Hour Delivery Program:  1.0
+KA-01593 Offensive Sexual Material:  1.0
+KA-01737 Oil Burning Equipment Installer Complaint:  1.0
+KA-02270 Oil Spill:  1.0
+KA-01104 One Shot Deal:  1.0
+KA-01339 Open Flame Inspection:  1.0
+KA-01594 Opioid Overdose Prevention:  1.0
+KA-02902 Opioid Overdose Prevention Poster:  1.0
+KA-02903 Oral Health:  1.0
+KA-02904 Order of Protection:  1.0
+KA-01595 Organized Crime:  0.3387096774193548
+KA-02905 Other Ways to Graduate High School:  0.9933571793561574
+KA-02906 Out-of-School Youth Job Training and Placement:  1.0
+KA-02136 Overcharge:  1.0
+KA-02907 Overdose:  1.0
+KA-02271 Overgrown Grass or Weeds:  0.9728260869565217
+KA-01340 Oxygen or Acetylene Tank Disposal:  1.0
+KA-02908 Paid Care Worker or Employer Assistance:  1.0
+KA-02909 Paid Safe and Sick Leave:  0.9940828402366864
+KA-01341 Panel for Educational Policy:  1.0
+KA-02272 Panhandling:  1.0
+KA-02460 Parade or Protest Permit:  1.0
+KA-02910 Parent Coordinator:  1.0
+KA-02911 Parenting Support:  0.9849903938520653
+KA-02912 Park Art Vendor Rules:  1.0
+KA-02071 Park Event Permit:  1.0
+KA-01060 Park Maintenance Complaint:  0.7730496453900709
+KA-01108 Parking Cards:  1.0
+KA-01240 Parking Meter Complaint:  1.0
+KA-02512 Parking Meter Request:  1.0
+KA-01239 Parking Meters:  1.0
+KA-02913 Parking Permit:  0.9712299208822824
+KA-01026 Parking Signs and Rules:  0.969811320754717
+KA-02914 Parking Space Request:  1.0
+KA-03206 Parking Ticket or Camera Violation Advocate:  0.9835333519397154
+KA-02320 Parking Ticket or Camera Violation Appeal:  1.0
+KA-02348 Parking Ticket or Camera Violation Assistance:  0.9821438726187092
+KA-02144 Parking Ticket or Camera Violation Clearance:  1.0
+KA-02345 Parking Ticket or Camera Violation Copy:  1.0
+KA-02275 Parking Ticket or Camera Violation Dispute:  1.0
+KA-02323 Parking Ticket or Camera Violation Dispute for Businesses:  1.0
+KA-02036 Parking Ticket or Camera Violation Payment:  0.8480679156908665
+KA-02061 Parking Ticket or Camera Violation Payment Plan:  1.0
+KA-02059 Parking Ticket or Camera Violation Programs for Businesses:  0.9915280828365234
+KA-02057 Parking Ticket or Camera Violation Status:  1.0
+KA-01238 ParkNYC Parking Payment:  0.9801235562718238
+KA-02500 Parks:  1.0
+KA-01661 Parole:  1.0
+KA-01229 Passports:  1.0
+KA-02916 Paternity Acknowledgment:  1.0
+KA-03178 Paternity Test:  1.0
+KA-01214 PATH Trains:  1.0
+KA-01846 Pathogens Permit:  1.0
+KA-02917 Pathway Home Program:  1.0
+KA-02165 Pawnbroker Complaint:  1.0
+KA-01841 Pawnbroker License:  1.0
+KA-01054 Pay Phone Complaint:  1.0
+KA-01596 Paycheck Plus Program:  1.0
+KA-02918 Payday Loan Tips:  1.0
+KA-01940 Payment in Lieu of Taxes (PILOT) Program:  1.0
+KA-01342 PCBs in Schools:  1.0
+KA-01080 Pedestrian Bridges:  1.0
+KA-02276 Pedestrian Ramp Complaint:  1.0
+KA-02277 Pedestrian Ramp Request:  1.0
+KA-02919 Pedestrian Safety:  1.0
+KA-01858 Pedicab Business License:  1.0
+KA-02164 Pedicab Business or Driver Complaint:  0.8337609030271934
+KA-01859 Pedicab Driver License:  1.0
+KA-02920 Pedicab Timer Inspection:  1.0
+KA-02386 People with Disabilities Services:  1.0
+KA-01110 Pest Control:  0.979498861047836
+KA-01597 Pesticide Application Without Notice:  1.0
+KA-02278 Pests:  1.0
+KA-01826 Pet Grooming Permit:  1.0
+KA-01831 Pet Kennel Permit:  1.0
+KA-02921 Pet Spaying or Neutering:  1.0
+KA-02279 Pet Store Complaint:  0.9803921568627451
+KA-01860 Pet Store Permit:  1.0
+KA-01827 Pet Training Business Permit:  1.0
+KA-01598 Petting Zoo Permit:  1.0
+KA-03189 Pharmacist Complaint:  1.0
+KA-02922 Pharmacy Without Naloxone:  1.0
+KA-01738 Phone Card Complaint:  1.0
+KA-02923 Phone Complaint:  0.9799498746867168
+KA-01599 Physical Culture Establishment Permit:  1.0
+KA-01600 Pigeon Droppings Health Effects:  1.0
+KA-02280 Pigeon Droppings or Odor:  1.0
+KA-01601 Pigeon Trapping Without Permit:  1.0
+KA-01914 Place of Assembly Complaint:  1.0
+KA-02098 Place of Assembly Inspection:  1.0
+KA-02099 Place of Assembly Permit:  0.9652173913043478
+KA-02080 Plastic Bag Recycling:  1.0
+KA-01620 Play Sure Kit:  1.0
+KA-02924 Playgrounds:  1.0
+KA-01739 Plumber License:  1.0
+KA-01915 Plumbing Complaint in a Commercial Building:  1.0
+KA-01988 Plumbing Work Without Permit:  1.0
+KA-01888 Poison Control Center:  1.0
+KA-02281 Poison Ivy:  1.0
+KA-02925 Police Barricade Request:  1.0
+KA-02420 Police Officer Complaint:  0.981633159592951
+KA-01602 Police Officer for Private Duty:  1.0
+KA-01603 Police Officer Impersonation:  1.0
+KA-01027 Police Precincts and PSAs:  1.0
+KA-02322 Police Report:  1.0
+KA-02531 Police Stops:  1.0
+KA-02926 Poll Site or Voting Equipment Complaint:  1.0
+KA-01406 Poll Worker Assistance:  1.0
+KA-02162 Pool or Billiard Room Complaint:  1.0
+KA-01832 Pool or Billiard Room License:  1.0
+KA-02282 Pool or Sauna Complaint:  1.0
+KA-01823 Pool, Sauna, Hot Tub, Steam Room, or Spray Ground Permit:  1.0
+KA-01215 Port Authority Buses:  1.0
+KA-01996 Portable Amusement Ride Relocation Inspection:  1.0
+KA-02927 Portable Fire Extinguisher Recognition:  1.0
+KA-01103 Postal Service:  1.0
+KA-02140 Poster or Sticker Complaint:  1.0
+KA-01106 Pothole or Cave-In on Highway:  1.0
+KA-01093 Pothole or Cave-In on Street:  1.0
+KA-03146 Power of Attorney:  1.0
+KA-02283 Power Outage:  0.9917064589092737
+KA-01924 Pregnancy Services Center Complaint:  1.0
+KA-02928 Pregnancy Support:  0.9735973597359736
+KA-02929 Pregnancy Test:  1.0
+KA-02930 Pregnant Student Support:  1.0
+KA-02931 Pre-Kindergarten Enrollment:  0.9923116350589442
+KA-02932 Prenatal Care:  1.0
+KA-01740 Pre-Qualified Certified Public Accountants:  1.0
+KA-02933 Prescription Discount Card:  1.0
+KA-01817 Prescription Formula Preparation Permit:  1.0
+KA-01605 Prescription Preparedness:  1.0
+KA-01606 Press and Media Inquiries:  1.0
+KA-01741 Prevailing Wage Complaint:  1.0
+KA-02209 Price Not Posted:  1.0
+KA-02934 Private and Parochial Schools:  1.0
+KA-01438 Private Elevator or Escalator Inspector Complaint:  1.0
+KA-01344 Private or Parochial School Complaint:  1.0
+KA-01345 Private Sewer or Water Main Permit:  1.0
+KA-01607 Probation Restitution:  1.0
+KA-01608 Probation Warrant Enforcement:  1.0
+KA-02161 Process Server Complaint:  1.0
+KA-01868 Process Server Individual License:  1.0
+KA-01865 Process Serving Agency License:  1.0
+KA-01743 Procurement Technical Assistance Center (PTAC):  1.0
+KA-02935 Professional License:  1.0
+KA-01744 Project Labor Agreement:  1.0
+KA-02476 Propane Tank Storage and Disposal:  1.0
+KA-01665 Property Deed or Record:  0.9712341478502938
+KA-02936 Property Deed or Record Fraud:  0.9948222298929927
+KA-01907 Property Grade Change Complaint:  1.0
+KA-02937 Property Lot Size Change:  1.0
+KA-01262 Property Management and Maintenance Resources:  1.0
+KA-03138 Property Market Value Review:  0.9821951769213433
+KA-03139 Property or Vacant Land Description Update:  0.9779604034366829
+KA-01795 Property Tax Benefits for Homeowners:  1.0
+KA-01252 Property Tax Bill:  0.9926007556675063
+KA-01680 Property Tax Bill Assistance:  1.0
+KA-02333 Property Tax Exemption Appeal:  0.9882109617373319
+KA-03120 Property Tax Exemption Assistance:  0.9902629902629903
+KA-02284 Property Tax Exemption for Government-Owned Properties:  1.0
+KA-02285 Property Tax Exemption for Non-Profits:  0.9918845807033363
+KA-01253 Property Tax Payment:  0.9456505464889954
+KA-01251 Property Tax Payment Assistance:  0.9935187464106982
+KA-03188 Property Tax Payment Deferral:  0.9969948018193632
+KA-01248 Property Tax Payment Plan:  1.0
+KA-02939 Property Tax Photograph:  1.0
+KA-01250 Property Value and Assessment:  0.9934263699552778
+KA-03125 Property Value Appeal:  0.9882280049566295
+KA-02940 Prospect Park:  1.0
+KA-01609 Prostitution:  1.0
+KA-01346 Public Access Defibrillator:  1.0
+KA-01204 Public Advocate:  1.0
+KA-03115 Public Assistance or Welfare:  0.9790007241129616
+KA-01610 Public Assistance Rent Payment for Landlords:  1.0
+KA-02941 Public Assistance Work Requirement:  1.0
+KA-01611 Public Assistance, Medicaid, or Food Stamp Fraud:  1.0
+KA-02942 Public Auction:  1.0
+KA-02160 Public Auction Complaint:  1.0
+KA-02943 Public Benefit Fair Hearing:  0.9979024646040902
+KA-02210 Public Event Seating Complaint:  1.0
+KA-01612 Public Health Library:  1.0
+KA-02944 Public Improvement or Mechanic's Lien:  1.0
+KA-01613 Public Official Threat:  1.0
+KA-02380 Public Parking Lots:  0.9907990314769975
+KA-01061 Public Plaza or Privately Owned Public Space (POPS) Complaint:  1.0
+KA-01347 Public Recycling:  1.0
+KA-02483 Public Recycling Complaint:  1.0
+KA-01745 Public Service Corps:  1.0
+KA-01958 Public Urination or Defecation:  1.0
+KA-01746 Public Utility Complaint:  1.0
+KA-02945 PUREsoil NYC:  1.0
+KA-02946 Quit Smoking:  0.9971929824561403
+KA-02349 Rabid Animal:  1.0
+KA-02947 Rabies Protection:  1.0
+KA-02350 Raccoon Control:  1.0
+KA-01348 Raccoon Roundworm Infection:  1.0
+KA-01349 Radiation:  1.0
+KA-01824 Radiation Equipment Permit:  1.0
+KA-01943 Radioactive Materials Complaint:  1.0
+KA-01614 Radioactive Materials License:  1.0
+KA-02948 Rain Garden:  1.0
+KA-02949 Range Hood or Micro Switch Inspection:  1.0
+KA-01107 Rat or Mouse Complaint:  1.0
+KA-01350 Rat Poison Sign:  1.0
+KA-01965 Ready to Rent:  1.0
+KA-02287 Real Property Income and Expense (RPIE):  0.9939918960458293
+KA-02950 Real Property Transfer Tax:  1.0
+KA-02211 Receipt Complaint:  1.0
+KA-02078 Rechargeable Battery Recycling:  1.0
+KA-01615 Reckless Driving:  1.0
+KA-02951 Recreation Centers:  1.0
+KA-02013 Recycling Rules:  0.9756763170384433
+KA-02022 Recycling Signs and Stickers:  1.0
+KA-02479 Recycling Theft:  1.0
+KA-02444 Recycling Violation:  1.0
+KA-02343 Red Light Camera Complaint:  1.0
+KA-02326 Red Light Cameras:  1.0
+KA-02075 Refrigeration Equipment Permit:  1.0
+KA-02334 Refrigerator or Freezer Disposal Complaint:  1.0
+KA-02953 Refund Policy Rules:  1.0
+KA-02530 Relocation and Employment Assistance Program (REAP):  1.0
+KA-02344 Rent Freeze Program Assistance:  0.9857080446857642
+KA-02288 Rent Freeze Program for Landlords:  0.9523613963039015
+KA-02289 Rent Freeze Program for Seniors:  0.9947590624545057
+KA-02290 Rent Freeze Program for Tenants with Disabilities:  0.9945790816326531
+KA-02347 Rent Freeze Program Renewal:  0.9908829174664108
+KA-02346 Rent Regulated Apartments:  1.0
+KA-01616 Rent Security Deposits and Interest:  1.0
+KA-02954 Residential Building Emergency Notices:  1.0
+KA-01748 Residential Building Owner Resources:  1.0
+KA-02242 Residential Construction Tax Benefit Programs:  0.9926586261143157
+KA-02086 Residential Garbage Rules:  1.0
+KA-01617 Residential Sprinkler System Test:  1.0
+KA-01942 Restaurant Allergy Poster Complaint:  1.0
+KA-01057 Restaurant and Mobile Food Letter Grading:  1.0
+KA-01351 Restaurant Bathroom Rules:  1.0
+KA-01352 Restaurant CPR Rules:  1.0
+KA-02955 Restaurant Inspection:  0.999203187250996
+KA-01353 Restaurant Job Training:  1.0
+KA-01930 Restaurant Odor:  1.0
+KA-01878 Restaurant Permit:  1.0
+KA-02159 Restaurant Surcharge Complaint:  1.0
+KA-01749 Retail and Restaurant Business Assistance:  1.0
+KA-01854 Retail Laundry License:  1.0
+KA-02956 Retail Store License:  1.0
+KA-02957 Revocable Consent Application:  1.0
+KA-02958 Rigger Complaint:  1.0
+KA-01750 Rigger License:  1.0
+KA-01354 Right Turn on Red in Staten Island:  1.0
+KA-01883 Roof Tank Commercial Treatment Permit:  1.0
+KA-01938 Roof Tank Leak or Overflow:  1.0
+KA-01751 Rooftop Detention:  1.0
+KA-01618 Roosevelt Island Tramway:  1.0
+KA-02959 Run for City Public Office:  1.0
+KA-01619 Runaway or Homeless Youth Shelter and Support:  1.0
+KA-02960 Safe Construction for Tenants:  1.0
+KA-02961 SafeLink Cell Phone Program:  1.0
+KA-01989 Sale to Minor Complaint:  1.0
+KA-01675 Sales Tax:  1.0
+KA-01478 Sales Tax Complaint:  1.0
+KA-01977 Sales Tax Vendor Registration:  1.0
+KA-02962 Same Sex Marriage:  1.0
+KA-02963 Sanitation Salvage License Suspension:  1.0
+KA-01288 Sanitation Sign Request:  1.0
+KA-01479 Satellite Provider Complaint:  1.0
+KA-02291 Scaffold or Sidewalk Shed Complaint:  1.0
+KA-02964 Scaffold Safety Class:  1.0
+KA-01297 Scaffold Site Safety Inspection:  1.0
+KA-02094 Scaffolding Permit:  0.9658634538152611
+KA-01925 Scale Complaint:  1.0
+KA-02158 Scale Dealer or Repairer Complaint:  1.0
+KA-01877 Scale Dealer or Repairer License:  1.0
+KA-02965 Scale Inspection:  1.0
+KA-02966 School Bullying:  0.9915966386554622
+KA-02522 School Calendar and Closures:  0.9971284996410624
+KA-02967 School Cell Phone Policy:  1.0
+KA-01480 School Choice:  1.0
+KA-01481 School Choice Complaint:  1.0
+KA-01355 School Closure Complaint:  1.0
+KA-02968 School Construction:  1.0
+KA-02969 School Crossing Guard Request:  1.0
+KA-02970 School Curriculum:  1.0
+KA-02971 School Discipline or Suspension Complaint:  1.0
+KA-02972 School Districts:  1.0
+KA-02973 School Document Translation:  1.0
+KA-02974 School Eligibility:  1.0
+KA-02976 School Enrollment Application in Braille or Large Print:  1.0
+KA-03128 School Enrollment Centers:  1.0
+KA-02977 School Finder:  1.0
+KA-02978 School Food:  0.9747843397478434
+KA-01482 School Food Complaint:  1.0
+KA-01483 School Health Complaint:  1.0
+KA-02979 School Immunization Requirements:  1.0
+KA-02980 School Internet Access:  1.0
+KA-02981 School Leadership Team (SLT):  1.0
+KA-01067 School Maintenance Complaint:  1.0
+KA-01356 School Metal Detectors:  1.0
+KA-02982 School Parent Associations:  1.0
+KA-01484 School Parent Leadership Complaint:  1.0
+KA-02983 School Parent Support (P311):  1.0
+KA-02984 School Performance:  1.0
+KA-01357 School Recycling Education:  1.0
+KA-01485 School Registration Complaint:  1.0
+KA-01358 School Renewal Program:  1.0
+KA-01359 School Rules and Policies:  1.0
+KA-02985 School Safety Complaint:  1.0
+KA-01486 School Sexual Misconduct:  1.0
+KA-02986 School Shopping Tips:  1.0
+KA-01487 School Special Education Complaint:  1.0
+KA-02987 School Success Guide:  1.0
+KA-01488 School Tax Credit:  1.0
+KA-02534 School Tax Relief for Homeowners (STAR):  0.9917824300528273
+KA-01489 School Teaching and Learning Complaint:  1.0
+KA-02988 School Testing:  1.0
+KA-02989 School Transfer:  0.9671052631578947
+KA-01490 School Transfer Complaint:  1.0
+KA-02521 School Transportation:  0.9970599044468945
+KA-01491 School Transportation Complaint:  1.0
+KA-02990 School Uniforms:  1.0
+KA-02991 School Zones:  1.0
+KA-02157 Scrap Metal Processor Complaint:  1.0
+KA-01845 Scrap Metal Processor License:  1.0
+KA-02992 SeaStreak Ferry:  1.0
+KA-01492 Second Avenue Subway Construction:  1.0
+KA-01810 Secondhand Dealer Auto License:  1.0
+KA-01863 Secondhand Dealer General License:  1.0
+KA-01493 Secondhand Smoke:  1.0
+KA-02993 Security Survey:  1.0
+KA-01495 Seized Vehicle:  1.0
+KA-01496 Self Certification of Plumbing Inspection:  1.0
+KA-02994 Sell Goods to the City:  1.0
+KA-02045 Senior Caregiving Support:  1.0
+KA-01900 Senior Center Complaint:  1.0
+KA-02353 Senior Centers:  1.0
+KA-02523 Senior Citizen Homeowners' Exemption (SCHE):  0.9964198535394629
+KA-03121 Senior Citizen Homeowners' Exemption (SCHE) Renewal:  0.9951047049224911
+KA-03171 Senior Legal Services Provider Complaint:  1.0
+KA-02995 September 11 Memorial and Museum:  1.0
+KA-01497 September 11th Victim Compensation:  1.0
+KA-01916 Septic or Cesspool Complaint:  1.0
+KA-01498 Septic Tank Cleaning:  0.7265625
+KA-01499 Service Dogs:  1.0
+KA-01360 Service in Schools:  1.0
+KA-01361 Service Request Map:  1.0
+KA-01066 Service Request Status:  1.0
+KA-03116 Service Requests:  1.0
+KA-02996 Serving Legal Papers:  0.9900938477580813
+KA-01068 Sewage Leak or Odor Indoors:  1.0
+KA-01510 Sewer Backup:  1.0
+KA-02997 Sewer Backup or Flood Clean-Up:  1.0
+KA-02034 Sewer Connection Permit:  1.0
+KA-01500 Sex Offender Registry:  1.0
+KA-02998 Sexual and Reproductive Health:  1.0
+KA-02999 Sexual and Reproductive Justice:  1.0
+KA-02049 Sexual Assault:  1.0
+KA-01621 Sexual Assault Victim Support:  1.0
+KA-03000 Sexually Transmitted Infection Test:  1.0
+KA-02355 Sheltered Bike Parking:  1.0
+KA-03002 SheRides Car Service:  1.0
+KA-03173 Shred Fest:  1.0
+KA-01362 Shut the Front Door:  1.0
+KA-01622 Sidewalk Banner Permit:  1.0
+KA-02156 Sidewalk Cafe Complaint:  1.0
+KA-01363 Sidewalk Cafe Heater Inspection:  1.0
+KA-01821 Sidewalk Cafe License:  1.0
+KA-01954 Sidewalk Cellar Door Application:  1.0
+KA-02292 Sidewalk Cellar Door Complaint:  1.0
+KA-02443 Sidewalk Cleaning:  0.9625468164794008
+KA-01955 Sidewalk Collapsed:  1.0
+KA-01786 Sidewalk Construction Permit:  1.0
+KA-02293 Sidewalk Grating Complaint:  1.0
+KA-01364 Sidewalk Installation:  1.0
+KA-01671 Sidewalk Repair Payment Plan:  1.0
+KA-03004 Sidewalk Repair Protest:  1.0
+KA-02095 Sidewalk Shed Permit:  0.9674329501915708
+KA-02294 Sidewalk Staircase Complaint:  1.0
+KA-01956 Sidewalk Utility Hardware Complaint:  1.0
+KA-01365 Sidewalk Valve Cover Complaint:  0.0
+KA-01506 Sidewalk Violation and Repair:  0.9940566900335264
+KA-01937 Sidewalk Washing Complaint:  1.0
+KA-01871 Sightseeing Bus License:  1.0
+KA-01872 Sightseeing Guide License:  1.0
+KA-03005 Sign Hanger Complaint:  1.0
+KA-01752 Sign Hanger License:  1.0
+KA-01891 Single Occupancy Bathroom Complaint:  1.0
+KA-01753 Site Safety Manager Certificate:  1.0
+KA-01754 Site Safety Manager Complaint:  1.0
+KA-01623 Small Animal Slaughterhouse License:  1.0
+KA-01755 Small Business Compliance Consultation:  1.0
+KA-01756 Small Business First:  1.0
+KA-03006 Small Claims Court for Disputes Under $5,000:  1.0
+KA-01757 Smelting Permit:  1.0
+KA-03177 Smoke Alarm and Battery Giveaway:  1.0
+KA-03007 Smoke Free Air Act:  1.0
+KA-02220 Smoke or Fumes:  1.0
+KA-01758 Smoke Oven Permit:  1.0
+KA-03008 Smoke-Free Housing:  0.9090009891196835
+KA-02295 Smoking Complaint:  1.0
+KA-03009 Smoking Policy Disclosure:  1.0
+KA-01018 SNAP (Food Stamps):  1.0
+KA-01205 SNAP (Food Stamps) for Retailers:  1.0
+KA-02517 Snow:  1.0
+KA-01397 Snow or Ice on Sidewalk:  1.0
+KA-02296 Snow or Ice on Street or Highway:  1.0
+KA-01367 Snow Removal City Contracts:  1.0
+KA-02377 Snow Removal Employment:  1.0
+KA-01781 Snow Shoveling Assistance:  1.0
+KA-01624 Social Club Safety Complaint:  1.0
+KA-01887 Social Innovation Fund Family Rewards:  1.0
+KA-03117 Social Security:  0.9892367906066536
+KA-01626 Social Security Fraud:  1.0
+KA-02297 Sodium Warning Complaint:  1.0
+KA-03010 Sodium Warning Rules:  1.0
+KA-02336 Solid Waste Transfer Station Complaint:  1.0
+KA-02213 Spanish Transaction Complaint:  1.0
+KA-03011 Special Education:  1.0
+KA-01627 Special Exit and Prevention Supplement (SEPS) Rent Assistance Program:  1.0
+KA-02155 Special Sale Complaint:  1.0
+KA-01843 Special Sale License:  1.0
+KA-01973 Special Waste Disposal:  0.9671527244819647
+KA-02341 Speed Camera Complaint:  1.0
+KA-02324 Speed Cameras:  1.0
+KA-01368 Speed Limits:  1.0
+KA-02514 Speed Reducer Request:  1.0
+KA-01759 Sponsor a Litter Basket:  1.0
+KA-03014 Sports Field or Court Permit:  1.0
+KA-01206 Spray Booth Permit:  1.0
+KA-02107 Sprinkler System and Standpipe Permit:  0.96
+KA-01904 Sprinkler System Complaint:  1.0
+KA-03015 Sprinklers:  1.0
+KA-02062 Squeegee Complaint:  1.0
+KA-02298 Standing Water:  1.0
+KA-03016 Start a Small Business:  0.9839203675344563
+KA-01628 Start a Universal Prekindergarten Program:  1.0
+KA-01629 Start an Adult Day Care:  1.0
+KA-01630 Start an After School Program:  1.0
+KA-03017 Starter Savings Account:  1.0
+KA-03018 State Court:  1.0
+KA-01242 State Parking Permit for People with Disabilities:  0.9701709712622771
+KA-01228 State Tax:  1.0
+KA-01760 State University of New York (SUNY):  1.0
+KA-03019 Staten Island Bluebelt:  1.0
+KA-02299 Staten Island Ferry:  1.0
+KA-01053 Staten Island Ferry Lost and Found:  1.0
+KA-01218 Staten Island Railway:  1.0
+KA-01631 Statue of Liberty:  1.0
+KA-02039 Status of Active Street or Sidewalk Construction Permits:  1.0
+KA-01219 Stolen Property:  1.0
+KA-01632 Stolen Vehicle:  1.0
+KA-01866 Stoop Line Stand License:  1.0
+KA-03020 Stop Sexual Harassment Act (SSHA):  1.0
+KA-01369 Stop Unwanted Mail:  1.0
+KA-01911 Stop Work Orders:  1.0
+KA-02154 Storage Warehouse Complaint:  1.0
+KA-01861 Storage Warehouse License:  1.0
+KA-02153 Store Complaint:  1.0
+KA-01893 Store Doors Open with Air Conditioner On:  1.0
+KA-01761 Storefront Improvement Program:  1.0
+KA-03159 Stove Knob Covers Complaint:  1.0
+KA-03021 Strategic Steps for Growth (SS4G):  1.0
+KA-02300 Stray Animal:  1.0
+KA-02041 Street and Highway Construction Rules:  1.0
+KA-01633 Street Banner Permit:  1.0
+KA-02060 Street Con Game:  1.0
+KA-03022 Street Conditions Observation Unit Team (SCOUT):  1.0
+KA-02040 Street Construction Permit:  1.0
+KA-03023 Street Design Manual:  1.0
+KA-01370 Street Event Cleanup:  1.0
+KA-02152 Street Fair Vendor Complaint:  1.0
+KA-02198 Street Flooding:  1.0
+KA-03044 Street Hail Livery Permit Appointment:  1.0
+KA-03024 Street Lighting Permit:  1.0
+KA-01100 Street Line Marking Complaint:  1.0
+KA-03025 Street Naming:  1.0
+KA-03026 Street or Sidewalk Marking:  0.9514370664023786
+KA-03027 Street Ownership:  1.0
+KA-01511 Street Plate Complaint:  1.0
+KA-01095 Street Repair Complaint:  1.0
+KA-01099 Street Resurfacing Request:  1.0
+KA-01063 Street Sign Complaint:  1.0
+KA-01064 Street Sign Request:  1.0
+KA-02332 Street Sweeping Complaint:  0.5134989200863931
+KA-01371 Street Traffic Flow Change:  1.0
+KA-01670 Street Utility Hardware Complaint:  1.0
+KA-02301 Street Vendor Complaint:  1.0
+KA-01372 Street Works Manual:  1.0
+KA-01081 Street, Highway, Bridge, and Tunnel Closures:  1.0
+KA-02463 Streetlight Complaint:  1.0
+KA-02491 Streetlight Request:  1.0
+KA-03028 Student Attendance and Absence:  0.997943797121316
+KA-03029 Student Educational Support:  1.0
+KA-03030 Student Graduation Requirements:  1.0
+KA-03031 Student in Temporary Housing:  1.0
+KA-03032 Student Promotion:  1.0
+KA-03033 Student Records:  0.9633786178381571
+KA-02442 Students with Disabilities:  0.986019131714496
+KA-01634 Subway Pass for Youth Organizations:  1.0
+KA-01635 Suicide:  1.0
+KA-03170 Summer Academy:  0.9972137085539148
+KA-03034 Summer Heat Health Tips:  1.0
+KA-01374 Summer Meals for Children:  1.0
+KA-03035 Summer School:  0.9713896457765667
+KA-03036 Supermarket Savings Guide:  1.0
+KA-03204 Supervisory Development Training:  1.0
+KA-02797 Supportive Housing Assistance:  1.0
+KA-01677 Surrogate Court:  0.805379746835443
+KA-01636 Suspicious Package:  1.0
+KA-01637 Suspicious Vehicle:  1.0
+KA-01762 Sweepstakes Complaint:  1.0
+KA-01931 Sweet Odor from Unknown Source:  1.0
+KA-01638 Swimming Lesson:  1.0
+KA-01375 Swimming Pool Installation Rules:  1.0
+KA-03037 Swimming Pool Operation Technology Course:  1.0
+KA-03038 Swimming Pools:  1.0
+KA-02475 Syringe on Sidewalk or Street:  1.0
+KA-01639 Take Care New York:  1.0
+KA-02302 Tanning Establishment Complaint:  1.0
+KA-02021 Tanning Establishment Permit:  1.0
+KA-03039 Tanning Health Risk Poster and Fact Sheet:  1.0
+KA-03040 Tattoo Artist Infection Control Course:  1.0
+KA-01857 Tattoo License:  1.0
+KA-01944 Tattoo Parlor Complaint:  1.0
+KA-03075 Tax Clearance Certificate:  1.0
+KA-01676 Tax Fraud:  1.0
+KA-02303 Tax Preparation:  1.0
+KA-02151 Tax Preparation Business Complaint:  1.0
+KA-03191 Taxi and For-Hire Vehicle Congestion Surcharge:  1.0
+KA-03042 Taxi and Limousine Commission's Website:  1.0
+KA-01241 Taxi Complaint:  1.0
+KA-01055 Taxi Driver Compliment:  1.0
+KA-03043 Taxi Driver License:  1.0
+KA-01763 Taxi Driver or Licensee Assistance:  1.0
+KA-01045 Taxi Lost and Found:  1.0
+KA-01376 Taxi Medallion Sale:  1.0
+KA-01056 Taxi or Car Service Insurance Information:  1.0
+KA-01764 Taxi Receipt Copy:  1.0
+KA-01245 Taxis:  0.9731778425655977
+KA-01663 Taxpayer Advocate:  0.99952481162175
+KA-01377 Technology Job Training:  1.0
+KA-01640 Teen ACTION Program:  1.0
+KA-03045 Teen Mental Health Poster and Palm Cards:  1.0
+KA-03046 Teen Talk Toolkit:  1.0
+KA-03047 Telecom Equipment:  1.0
+KA-03048 Telemarketing Do Not Call Registration:  0.977022977022977
+KA-01641 Telemarketing Fraud:  1.0
+KA-01378 Telemarketing Texting Complaint:  1.0
+KA-01825 Temporary Food Service Establishment Permit:  1.0
+KA-01818 Temporary Street Fair Vendor Permit:  1.0
+KA-03049 Temporary Work Schedule Change:  1.0
+KA-03050 Ten Things Every Business Should Know Pocket Guide:  1.0
+KA-03051 Ten Things Every Consumer Should Know Pocket Guide:  1.0
+KA-01042 Tenant Harassment:  1.0
+KA-03052 Tenant Interim Lease (TIL) Program:  1.0
+KA-01926 Tenant Screening Report Sign Not Posted:  1.0
+KA-03053 Tennis Permit:  1.0
+KA-01343 Termination of Pregnancy Certificate Form:  1.0
+KA-01642 Terrorism:  1.0
+KA-03054 The Green Book:  0.9603305785123967
+KA-01379 The Human Project:  1.0
+KA-03055 Theaters and Performing Arts Centers:  1.0
+KA-03205 Theatrical Workforce Development Program:  1.0
+KA-01643 Theft of Service:  1.0
+KA-01822 Therapeutic Radiation Equipment Permit:  1.0
+KA-03056 Three Quarter Housing:  1.0
+KA-01380 ThriveNYC Mental Health Plan:  1.0
+KA-02304 Ticket Scalping:  1.0
+KA-01869 Ticket Seller Business License:  1.0
+KA-01927 Ticket Seller Complaint:  1.0
+KA-01870 Ticket Seller Individual License:  1.0
+KA-03057 Ticks:  1.0
+KA-02421 Tire Disposal:  1.0
+KA-01978 Tobacco Laws:  1.0
+KA-01382 Tobacco or Electronic Cigarette Shop Registration:  1.0
+KA-01922 Tobacco Product Sale Complaint:  1.0
+KA-01840 Tobacco Retail Dealer License:  1.0
+KA-03058 Toilet Replacement Program:  1.0
+KA-02150 Tour Guide or Bus Complaint:  1.0
+KA-01644 Tourette Syndrome:  1.0
+KA-01873 Tow Truck Company License:  0.9912344777209642
+KA-02149 Tow Truck Complaint:  1.0
+KA-01874 Tow Truck Driver License:  1.0
+KA-01894 Tow Truck Exemption License:  1.0
+KA-02055 Towed Vehicle:  1.0
+KA-03124 Towed Vehicle Reclaim from Marshal or Sheriff:  1.0
+KA-03123 Towed Vehicle Reclaim from NYPD:  0.9010060362173038
+KA-03059 Towing Guide:  1.0
+KA-02214 Toy Gun Sale:  1.0
+KA-01645 Toy Safety:  1.0
+KA-03060 Tractor-Trailer Parking Rules:  1.0
+KA-03061 Trade Waste License and Registration:  1.0
+KA-01765 Trademarks and Patents:  1.0
+KA-02305 Traffic Condition:  1.0
+KA-01383 Traffic Median Pedestrian Fence Complaint:  1.0
+KA-01047 Traffic or Pedestrian Signal Complaint:  1.0
+KA-01404 Traffic or Pedestrian Signal Request:  1.0
+KA-03062 Traffic Rules:  1.0
+KA-03063 Traffic Safety:  0.9358426005132592
+KA-02058 Traffic Ticket:  1.0
+KA-01384 Traffic Trends:  1.0
+KA-02306 Trans Fat:  1.0
+KA-01646 Transit Violation:  1.0
+KA-01647 Transitional Finance Authority Bond:  1.0
+KA-02307 Transportation for Seniors:  1.0
+KA-01648 Trauma Scene Cleanup:  1.0
+KA-02148 Travel Agency Complaint:  1.0
+KA-01501 Traveling Abroad:  1.0
+KA-01385 Tree Bed Care:  1.0
+KA-01990 Tree Destruction:  1.0
+KA-01895 Tree Planting:  1.0
+KA-01794 Tree Pruning:  1.0
+KA-01917 Tree Removal or Natural Feature Change in SNAD:  1.0
+KA-01386 Tree Stump:  1.0
+KA-01896 Tree Work Permit:  0.975609756097561
+KA-01505 Trees and Sidewalks Repair:  1.0
+KA-02308 Trespassing:  1.0
+KA-03064 Truck or Commercial Vehicle Permit:  0.9636648122392212
+KA-01957 Truck Route Complaint:  1.0
+KA-03065 Truck Traffic Rules and Routes:  0.991820580474934
+KA-03066 Tuberculosis:  1.0
+KA-01230 Tunnels:  1.0
+KA-01766 Unclaimed Funds:  1.0
+KA-01387 Undocumented Immigrant:  1.0
+KA-01767 Unemployment Insurance:  1.0
+KA-01768 Uniform Land Use Review Procedure Application:  1.0
+KA-03067 Unincorporated Business Tax:  1.0
+KA-01649 United Nations General Assembly:  1.0
+KA-01051 Unleashed Dog:  1.0
+KA-02206 Unlicensed Business:  1.0
+KA-02309 Unlicensed Contractor:  1.0
+KA-02310 Unlicensed Dog:  1.0
+KA-01950 Unlocked Park or Playground:  1.0
+KA-01747 Unpaid Wage Recovery:  1.0
+KA-01905 Unsafe Construction Material Storage:  1.0
+KA-01952 Unsafe Highway Construction:  1.0
+KA-01906 Unsafe New Building Structure:  1.0
+KA-03068 Unsafe Product:  1.0
+KA-01918 Unstable Building:  1.0
+KA-02311 Unwanted Ad or Menu:  1.0
+KA-03069 Unwanted Pet:  1.0
+KA-01770 Urban Fellows Program:  1.0
+KA-03070 Used Car Guide:  1.0
+KA-02147 Used Goods Dealer Complaint:  1.0
+KA-02146 Used Gun Dealer Complaint:  1.0
+KA-03071 Utility Tax:  1.0
+KA-01901 Vacant Building Complaint:  1.0
+KA-01388 Vacant Lot Cleaning Bill:  1.0
+KA-01210 Vacant Lot Complaint:  1.0
+KA-02312 Vacate Order:  1.0
+KA-01019 Vandalism in a Park:  1.0
+KA-01220 Vehicle Accident:  1.0
+KA-03073 Vehicle Accident Report:  1.0
+KA-03074 Vehicle Auction:  1.0
+KA-02474 Vehicle Disposal:  1.0
+KA-01932 Vehicle Exhaust:  1.0
+KA-02319 Vehicle Registration or License Plate:  1.0
+KA-01991 Vehicle Stored on Residential Property or Vacant Lot:  1.0
+KA-02313 Ventilation or Exhaust System Complaint:  1.0
+KA-03076 Verizon Telephone Pole or Wire Complaint:  1.0
+KA-03077 Verizon Telephone, Internet, and Cable Service:  1.0
+KA-03079 Veteran Health Care:  1.0
+KA-03080 Veteran Housing Incentives for Landlords:  0.9821428571428571
+KA-03122 Veterans Property Tax Exemption:  0.9936720469552458
+KA-03081 VIN Etching:  1.0
+KA-03082 Visitor Information:  1.0
+KA-03083 Vital Records Attorney Rules:  0.9622479622479623
+KA-03084 Vital Records EVERS System:  1.0
+KA-01650 Volatile Organic Compound (VOC) Carpet Rules:  1.0
+KA-03085 Voluntary Disclosure of Taxes Owed and Compliance (VDCP):  1.0
+KA-03140 Voluntary Placement of a Child in Foster Care:  1.0
+KA-01651 Volunteer as a Medicare Counselor:  1.0
+KA-01207 Volunteer Firefighter Background Check:  1.0
+KA-01389 Volunteer in Emergencies:  1.0
+KA-01390 Volunteer in Homeless Shelters or Food Pantries:  1.0
+KA-01208 Volunteer in Parks:  1.0
+KA-01687 Volunteer Opportunities for Businesses:  1.0
+KA-01209 Volunteer Program Management:  1.0
+KA-01652 Volunteer Screening for Non-Profits:  1.0
+KA-01391 Volunteer to Shovel Snow:  1.0
+KA-01685 Volunteer with Seniors:  1.0
+KA-01686 Volunteer with Young People:  0.9297820823244553
+KA-01392 Volunteering:  1.0
+KA-02314 Wall Complaint:  1.0
+KA-01771 Wastewater Guidelines for Businesses:  1.0
+KA-02126 Wastewater Treatment Plant Complaint:  0.954337899543379
+KA-02129 Wasting Water:  1.0
+KA-02459 Water and Sewer Bill:  0.9924267369114258
+KA-02461 Water and Sewer Bill Dispute:  1.0
+KA-02462 Water and Sewer Bill Payment:  1.0
+KA-02464 Water and Sewer Lien Sale:  1.0
+KA-02465 Water and Sewer Rate:  1.0
+KA-01772 Water and Sewer Service Line Protection Program:  1.0
+KA-01393 Water Backflow Permit:  1.0
+KA-02035 Water Conservation Variance Permit:  1.0
+KA-01992 Water Drainage Complaint:  1.0
+KA-02037 Water Fixtures Permit:  1.0
+KA-03088 Water Fountain and Bottle Refill Stations:  1.0
+KA-01773 Water Hardness:  1.0
+KA-01509 Water Leak in a Building:  0.9916167664670659
+KA-01234 Water Leak on Street or Sidewalk:  1.0
+KA-01233 Water Main Break:  1.0
+KA-02535 Water Meter:  1.0
+KA-02137 Water Meter Complaint:  1.0
+KA-01774 Water Meter Inspector Check:  1.0
+KA-02038 Water Meter Permit:  1.0
+KA-03090 Water Potability Certificate:  1.0
+KA-01939 Water Sampling Station Complaint:  1.0
+KA-01775 Water Saving Kit:  1.0
+KA-01776 Water Saving Tips:  1.0
+KA-03091 Water Service:  1.0
+KA-02127 Water Shutdowns:  1.0
+KA-02076 Water Tap Permit or Sewer Pipe Map:  1.0
+KA-03092 Water Vessel for Shipping Hydrant Certificate:  1.0
+KA-01884 Water Well Permit:  1.0
+KA-03093 Waterfront Permit:  1.0
+KA-02077 Watershed Recreation and Access Permit:  0.9813581890812251
+KA-01784 Waterway Complaint:  1.0
+KA-01653 WeCare Services for Public Assistance Clients:  1.0
+KA-01777 Welder Complaint:  1.0
+KA-01778 Welder License:  1.0
+KA-01394 West Nile Virus:  1.0
+KA-03094 Wheelchair Friendly Decal:  1.0
+KA-01654 Wholesale Foods Distributor License:  1.0
+KA-03096 Wi-Fi:  1.0
+KA-01790 Wild Animal:  1.0
+KA-01655 Wild Animal Exhibition Permit:  1.0
+KA-03097 Window Guard:  0.9991212653778558
+KA-02132 Window Guard Complaint:  1.0
+KA-03098 Winter Weather Safety:  1.0
+KA-01395 Women Entrepreneurs NYC (WE NYC):  1.0
+KA-03099 Women NYC:  1.0
+KA-01800 Wood Disposal:  0.9677331145747881
+KA-01407 Worker Safety:  1.0
+KA-03101 Workers' Compensation:  1.0
+KA-01779 Workers' Compensation for Businesses:  1.0
+KA-01780 Workers' Compensation Fraud:  1.0
+KA-01796 Workforce1 Career Centers:  1.0
+KA-01819 Working Horse License:  1.0
+KA-01396 Working Horse Rules:  1.0
+KA-01656 World Trade Center DNA Sample:  0.12280701754385964
+KA-03102 World Trade Center Health Program:  1.0
+KA-03207 WorldPride NYC:  0.992831541218638
+KA-01946 X-Ray Machine Complaint:  1.0
+KA-03103 Young Men's Initiative:  1.0
+KA-03104 Youth Baseball and Defibrillators (AEDs):  0.9923504867872045
+KA-03107 Youth Employment:  1.0
+KA-03105 Youth Employment Working Papers:  0.9616908850726552
+KA-03106 Youth Services and Counseling:  1.0
+KA-02480 Zero Waste Pledge:  1.0
+KA-02330 Zika Virus:  0.9752671755725191
+KA-03108 Zoos and Aquariums:  1.0

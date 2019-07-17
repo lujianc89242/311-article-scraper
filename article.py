@@ -4,13 +4,15 @@ from docx import Document
 from docx.shared import Inches
 import re
 
-# Helper function
+# Helper function for match_rate
 # Strip the string using regular expressions and return the count of char in that string
 def check_sum(str):
     striped_str = str.replace(" ","")
     striped_str = re.sub(r"[\n\t\s]*", "", striped_str)
     return len(striped_str)
 
+# Calculate the rate of matches between 2 pieces of string
+#
 def match_rate(output, plain):
     output_char_num = float(check_sum(output))
     plain_char_num = float(check_sum(plain))
@@ -46,16 +48,16 @@ outFile.close()
 
 ############## Stats output ###############
 stats_output = open("stats.txt","w")
-err_log_1 = open("err_log_1.txt","w")
-err_log_2 = open("err_log_2.txt","w")
-log_file = open("log.txt", "w")
+# err_log_1 = open("err_log_1.txt","w")
+# err_log_2 = open("err_log_2.txt","w")
+log_file = open("log.txt", "a")
 article_num = url_ctr
 stats_correct_num = 0
 stats_total_sum = 0
 
 ############## Scraping Information From One Page ###############
 # Prepare the scraping object
-for each_url in url_list[1302:1303]:
+for each_url in url_list:
     url = each_url
     article_id = url[45:]
     article_req = requests.get(url)
@@ -107,55 +109,52 @@ for each_url in url_list[1302:1303]:
                 section_tags2.append(section)
 
         for section_tag in section_tags2:
-            print("Section **********")
-            for section in section_tag.contents:
 
-                print(section)
-                # if(section.name == "p"):
-                #     for element in section.contents:
-                #         if(str(type(element)) == "<class 'bs4.element.Tag'>"):
-                #             if(element.name == "a"):
-                #                 url_p = element.text + "(" + element['href'] + ")"
-                #                 document.add_paragraph(url_p)
-                #                 output_text = output_text + element.text.strip()
-                #                 print(url_p)
-                #             if(element.name == "strong"):
-                #                 document.add_heading(element.text.strip(), level=3)
-                #                 output_text = output_text + element.text.strip()
-                #                 print(element.text, "(a bold text)")
-                #             if(element.name == "br"):
-                #                 print("")
-                #                 # print("\n")
-                #         if(str(type(element)) == "<class 'bs4.element.NavigableString'>" and str(element)!=""):
-                #             document.add_paragraph(element)
-                #             output_text = output_text + element
-                #             print(element)
-                # if(section.name == "ul"):
-                #     for li in section.contents:
-                #         if(str(type(li)) != "<class 'bs4.element.Tag'>" and str(li)!=""):
-                #             document.add_paragraph(li)
-                #
-                #         else:
-                #             document.add_paragraph(li.text.strip(), style='List Bullet')
-                #             output_text = output_text + li.text.strip()
-                #             print(li.text)
-                #
-                # # Special case when a Need something else? dialog box appears
-                # if(section.name == "div"):
-                #     document.add_paragraph(section.get_text())
-                #     output_text = output_text + section.get_text()
-                #
-                # if(section.name == "h5"):
-                #     try:
-                #         value = section.find('input').get('value')
-                #         temp_output = value + " (link to a complaint form)"
-                #         document.add_paragraph(temp_output)
-                #         # output_text = output_text + value
-                #         print(temp_output)
-                #     except:
-                #         pass
+            for section in section_tag.contents:
+                if(section.name == "p"):
+                    for element in section.contents:
+                        if(str(type(element)) == "<class 'bs4.element.Tag'>"):
+                            if(element.name == "a"):
+                                url_p = element.text + "(" + element['href'] + ")"
+                                document.add_paragraph(url_p)
+                                output_text = output_text + element.text.strip()
+                                print(url_p)
+                            if(element.name == "strong"):
+                                document.add_heading(element.text.strip(), level=3)
+                                output_text = output_text + element.text.strip()
+                                print(element.text, "(a bold text)")
+                            if(element.name == "br"):
+                                print("")
+                        if(str(type(element)) == "<class 'bs4.element.NavigableString'>" and str(element)!=""):
+                            document.add_paragraph(element)
+                            output_text = output_text + element
+                            print(element)
+                if(section.name == "ul"):
+                    for li in section.contents:
+                        if(str(type(li)) != "<class 'bs4.element.Tag'>" and str(li)!=""):
+                            document.add_paragraph(li)
+
+                        else:
+                            document.add_paragraph(li.text.strip(), style='List Bullet')
+                            output_text = output_text + li.text.strip()
+                            print(li.text)
+
+                # Special case when a Need something else? dialog box appears
+                if(section.name == "div"):
+                    document.add_paragraph(section.get_text())
+                    output_text = output_text + section.get_text()
+
+                if(section.name == "h5"):
+                    try:
+                        value = section.find('input').get('value')
+                        temp_output = value + " (link to a complaint form)"
+                        document.add_paragraph(temp_output)
+                        # output_text = output_text + value
+                        print(temp_output)
+                    except:
+                        pass
                 # else:
-                #     print("exceptions: ", section )
+                #
 
 
     # STATS
@@ -164,18 +163,13 @@ for each_url in url_list[1302:1303]:
     stats_rate = match_rate(output_text,plain_text)
     print(stats_rate)
     stats_total_sum = stats_total_sum + stats_rate
-    if stats_rate > 1.0:
-        err_log_1_output = article_title_text + ":  " + str(stats_rate) + "\n"
-        err_log_1.write(err_log_1_output)
-    if stats_rate < 1.0:
-        err_log_2_output = article_title_text + ":  " + str(stats_rate) + "\n"
-        err_log_2.write(err_log_2_output)
 
     if stats_rate == 1.0:
         stats_correct_num = stats_correct_num + 1
-
+    log_output = str(stats_rate) + " " + str(article_id) + " " + article_title_text + "\n"
+    log_file.write(log_output)
     document.save(file_name_docx)
-    # outFile_txt.close()
+
 
 temp_output = "Number of articles: " + str(article_num) + "\n"
 stats_output.write(temp_output)
@@ -183,6 +177,5 @@ temp_output = "Number of articles passed check sum: " + str(stats_correct_num) +
 stats_output.write(temp_output)
 temp_output = "Correct rate: " + str(stats_total_sum/article_num) + "\n"
 stats_output.write(temp_output)
-err_log_1.close()
-err_log_2.close()
+log_file.close()
 stats_output.close()
